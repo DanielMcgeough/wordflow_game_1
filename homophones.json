@@ -1,0 +1,7962 @@
+{
+    "abbey": [
+        "abbie",
+        "abby",
+        "abie"
+    ],
+    "abbie": [
+        "abbey",
+        "abby",
+        "abie"
+    ],
+    "abby": [
+        "abbey",
+        "abbie",
+        "abie"
+    ],
+    "abel": [
+        "able"
+    ],
+    "abie": [
+        "abbey",
+        "abbie",
+        "abby"
+    ],
+    "able": [
+        "abel"
+    ],
+    "acetic": [
+        "ascetic"
+    ],
+    "ache": [
+        "ake"
+    ],
+    "achor": [
+        "acre"
+    ],
+    "acre": [
+        "achor"
+    ],
+    "actin": [
+        "acton"
+    ],
+    "acton": [
+        "actin"
+    ],
+    "adapter": [
+        "adaptor"
+    ],
+    "adaptor": [
+        "adapter"
+    ],
+    "addie": [
+        "addy"
+    ],
+    "addy": [
+        "addie"
+    ],
+    "ade": [
+        "aid",
+        "aide"
+    ],
+    "adieu": [
+        "ado"
+    ],
+    "ado": [
+        "adieu"
+    ],
+    "adviser": [
+        "advisor"
+    ],
+    "advisor": [
+        "adviser"
+    ],
+    "aer": [
+        "air",
+        "ere",
+        "err",
+        "eyre",
+        "heir"
+    ],
+    "aerial": [
+        "ariel"
+    ],
+    "aerie": [
+        "airy",
+        "ary",
+        "eyrie"
+    ],
+    "aid": [
+        "ade",
+        "aide"
+    ],
+    "aide": [
+        "ade",
+        "aid"
+    ],
+    "ail": [
+        "ale"
+    ],
+    "aileen": [
+        "eileen"
+    ],
+    "aim": [
+        "ame"
+    ],
+    "air": [
+        "aer",
+        "ere",
+        "err",
+        "eyre",
+        "heir"
+    ],
+    "airing": [
+        "erring"
+    ],
+    "airy": [
+        "aerie",
+        "ary",
+        "eyrie"
+    ],
+    "aisle": [
+        "isle"
+    ],
+    "ake": [
+        "ache"
+    ],
+    "alan": [
+        "allan",
+        "allen"
+    ],
+    "ale": [
+        "ail"
+    ],
+    "alfa": [
+        "alpha"
+    ],
+    "algae": [
+        "algy"
+    ],
+    "algy": [
+        "algae"
+    ],
+    "align": [
+        "aline"
+    ],
+    "aline": [
+        "align"
+    ],
+    "allan": [
+        "alan",
+        "allen"
+    ],
+    "allen": [
+        "alan",
+        "allan"
+    ],
+    "alley": [
+        "allie"
+    ],
+    "allie": [
+        "alley"
+    ],
+    "alpha": [
+        "alfa"
+    ],
+    "altar": [
+        "alter"
+    ],
+    "alter": [
+        "altar"
+    ],
+    "ame": [
+        "aim"
+    ],
+    "amok": [
+        "amuck"
+    ],
+    "amuck": [
+        "amok"
+    ],
+    "anas": [
+        "anise"
+    ],
+    "anchor": [
+        "anker"
+    ],
+    "andrea": [
+        "andria"
+    ],
+    "andria": [
+        "andrea"
+    ],
+    "animous": [
+        "animus"
+    ],
+    "animus": [
+        "animous"
+    ],
+    "anise": [
+        "anas"
+    ],
+    "anker": [
+        "anchor"
+    ],
+    "ann": [
+        "anne"
+    ],
+    "annal": [
+        "annul"
+    ],
+    "anne": [
+        "ann"
+    ],
+    "annul": [
+        "annal"
+    ],
+    "ant": [
+        "aunt"
+    ],
+    "ante": [
+        "anti",
+        "auntie"
+    ],
+    "anti": [
+        "ante",
+        "auntie"
+    ],
+    "arc": [
+        "ark"
+    ],
+    "argon": [
+        "argonne"
+    ],
+    "argonne": [
+        "argon"
+    ],
+    "ariel": [
+        "aerial"
+    ],
+    "ark": [
+        "arc"
+    ],
+    "armer": [
+        "armor"
+    ],
+    "armor": [
+        "armer"
+    ],
+    "arn": [
+        "arne"
+    ],
+    "arne": [
+        "arn"
+    ],
+    "artie": [
+        "arty"
+    ],
+    "arty": [
+        "artie"
+    ],
+    "ary": [
+        "aerie",
+        "airy",
+        "eyrie"
+    ],
+    "ascent": [
+        "assent"
+    ],
+    "ascetic": [
+        "acetic"
+    ],
+    "asher": [
+        "ashur"
+    ],
+    "ashur": [
+        "asher"
+    ],
+    "assent": [
+        "ascent"
+    ],
+    "aster": [
+        "astor"
+    ],
+    "astor": [
+        "aster"
+    ],
+    "ate": [
+        "eight"
+    ],
+    "auger": [
+        "augur"
+    ],
+    "augur": [
+        "auger"
+    ],
+    "aunt": [
+        "ant"
+    ],
+    "auntie": [
+        "ante",
+        "anti"
+    ],
+    "aura": [
+        "ora"
+    ],
+    "aural": [
+        "oral"
+    ],
+    "ava": [
+        "eva"
+    ],
+    "axel": [
+        "axle"
+    ],
+    "axle": [
+        "axel"
+    ],
+    "aye": [
+        "eye"
+    ],
+    "baar": [
+        "bar"
+    ],
+    "babble": [
+        "babel"
+    ],
+    "babel": [
+        "babble"
+    ],
+    "bach": [
+        "bock"
+    ],
+    "bache": [
+        "batch"
+    ],
+    "bade": [
+        "bayed"
+    ],
+    "bae": [
+        "buy",
+        "bye"
+    ],
+    "baggie": [
+        "baggy"
+    ],
+    "baggy": [
+        "baggie"
+    ],
+    "baht": [
+        "bott",
+        "bought"
+    ],
+    "bail": [
+        "bale"
+    ],
+    "bailer": [
+        "bailor",
+        "baler"
+    ],
+    "bailey": [
+        "bailie"
+    ],
+    "bailie": [
+        "bailey"
+    ],
+    "bailor": [
+        "bailer",
+        "baler"
+    ],
+    "bain": [
+        "bane"
+    ],
+    "bait": [
+        "bate"
+    ],
+    "baize": [
+        "baze"
+    ],
+    "bald": [
+        "balled"
+    ],
+    "bale": [
+        "bail"
+    ],
+    "baler": [
+        "bailer",
+        "bailor"
+    ],
+    "ball": [
+        "bawl"
+    ],
+    "balled": [
+        "bald"
+    ],
+    "balli": [
+        "bally"
+    ],
+    "ballow": [
+        "balow"
+    ],
+    "bally": [
+        "balli"
+    ],
+    "balm": [
+        "bom",
+        "bomb"
+    ],
+    "baloney": [
+        "bologna"
+    ],
+    "balow": [
+        "ballow"
+    ],
+    "banc": [
+        "bank"
+    ],
+    "bane": [
+        "bain"
+    ],
+    "bank": [
+        "banc"
+    ],
+    "bar": [
+        "baar"
+    ],
+    "bara": [
+        "barra"
+    ],
+    "barb": [
+        "barbe"
+    ],
+    "barbe": [
+        "barb"
+    ],
+    "bard": [
+        "barred"
+    ],
+    "bare": [
+        "bear"
+    ],
+    "baring": [
+        "bearing"
+    ],
+    "barish": [
+        "bearish"
+    ],
+    "barney": [
+        "barny"
+    ],
+    "barny": [
+        "barney"
+    ],
+    "baron": [
+        "barren"
+    ],
+    "barra": [
+        "bara"
+    ],
+    "barred": [
+        "bard"
+    ],
+    "barren": [
+        "baron"
+    ],
+    "barret": [
+        "barrett"
+    ],
+    "barrett": [
+        "barret"
+    ],
+    "based": [
+        "baste"
+    ],
+    "bask": [
+        "basque"
+    ],
+    "basque": [
+        "bask"
+    ],
+    "baste": [
+        "based"
+    ],
+    "bat": [
+        "batt"
+    ],
+    "bataan": [
+        "baton"
+    ],
+    "batch": [
+        "bache"
+    ],
+    "bate": [
+        "bait"
+    ],
+    "baton": [
+        "bataan"
+    ],
+    "bats": [
+        "batz"
+    ],
+    "batt": [
+        "bat"
+    ],
+    "batz": [
+        "bats"
+    ],
+    "bauble": [
+        "bobble"
+    ],
+    "baud": [
+        "bawd"
+    ],
+    "bawd": [
+        "baud"
+    ],
+    "bawl": [
+        "ball"
+    ],
+    "bay": [
+        "bey"
+    ],
+    "bayed": [
+        "bade"
+    ],
+    "bazaar": [
+        "bizarre"
+    ],
+    "baze": [
+        "baize"
+    ],
+    "bea": [
+        "bee"
+    ],
+    "beach": [
+        "beech"
+    ],
+    "beachy": [
+        "beechy"
+    ],
+    "beak": [
+        "beek"
+    ],
+    "bean": [
+        "bien"
+    ],
+    "bear": [
+        "bare"
+    ],
+    "bearing": [
+        "baring"
+    ],
+    "bearish": [
+        "barish"
+    ],
+    "beat": [
+        "beet"
+    ],
+    "beau": [
+        "beaux"
+    ],
+    "beaux": [
+        "beau"
+    ],
+    "becher": [
+        "becker"
+    ],
+    "becker": [
+        "becher"
+    ],
+    "beckie": [
+        "becky"
+    ],
+    "becky": [
+        "beckie"
+    ],
+    "bee": [
+        "bea"
+    ],
+    "beech": [
+        "beach"
+    ],
+    "beechy": [
+        "beachy"
+    ],
+    "beek": [
+        "beak"
+    ],
+    "beeman": [
+        "beman"
+    ],
+    "been": [
+        "bin"
+    ],
+    "beer": [
+        "bere"
+    ],
+    "bees": [
+        "bes"
+    ],
+    "beet": [
+        "beat"
+    ],
+    "behn": [
+        "ben",
+        "benn",
+        "benne"
+    ],
+    "bel": [
+        "bell",
+        "belle"
+    ],
+    "bela": [
+        "bella"
+    ],
+    "bell": [
+        "bel",
+        "belle"
+    ],
+    "bella": [
+        "bela"
+    ],
+    "belle": [
+        "bel",
+        "bell"
+    ],
+    "beman": [
+        "beeman"
+    ],
+    "ben": [
+        "behn",
+        "benn",
+        "benne"
+    ],
+    "bena": [
+        "bene"
+    ],
+    "bene": [
+        "bena"
+    ],
+    "beni": [
+        "benny"
+    ],
+    "benn": [
+        "behn",
+        "ben",
+        "benne"
+    ],
+    "benne": [
+        "behn",
+        "ben",
+        "benn"
+    ],
+    "benny": [
+        "beni"
+    ],
+    "bere": [
+        "beer"
+    ],
+    "berg": [
+        "burg"
+    ],
+    "berger": [
+        "burgher"
+    ],
+    "bern": [
+        "berne",
+        "burn"
+    ],
+    "berne": [
+        "bern",
+        "burn"
+    ],
+    "berri": [
+        "berry",
+        "bury"
+    ],
+    "berry": [
+        "berri",
+        "bury"
+    ],
+    "bert": [
+        "burt"
+    ],
+    "berth": [
+        "birth"
+    ],
+    "beryl": [
+        "burel"
+    ],
+    "bes": [
+        "bees"
+    ],
+    "bessie": [
+        "bessy"
+    ],
+    "bessy": [
+        "bessie"
+    ],
+    "betsey": [
+        "betsy"
+    ],
+    "betsy": [
+        "betsey"
+    ],
+    "better": [
+        "bettor"
+    ],
+    "bettor": [
+        "better"
+    ],
+    "bey": [
+        "bay"
+    ],
+    "bib": [
+        "bibb"
+    ],
+    "bibb": [
+        "bib"
+    ],
+    "bien": [
+        "bean"
+    ],
+    "bight": [
+        "bite"
+    ],
+    "billed": [
+        "build"
+    ],
+    "billie": [
+        "billy"
+    ],
+    "billy": [
+        "billie"
+    ],
+    "bin": [
+        "been"
+    ],
+    "bird": [
+        "burd"
+    ],
+    "birdie": [
+        "birdy"
+    ],
+    "birdy": [
+        "birdie"
+    ],
+    "birk": [
+        "burke"
+    ],
+    "birle": [
+        "burl"
+    ],
+    "biron": [
+        "byron"
+    ],
+    "birr": [
+        "bur",
+        "burr"
+    ],
+    "birth": [
+        "berth"
+    ],
+    "bite": [
+        "bight"
+    ],
+    "bizarre": [
+        "bazaar"
+    ],
+    "blain": [
+        "blaine",
+        "blayne"
+    ],
+    "blaine": [
+        "blain",
+        "blayne"
+    ],
+    "blair": [
+        "blare"
+    ],
+    "blanc": [
+        "blank"
+    ],
+    "blank": [
+        "blanc"
+    ],
+    "blare": [
+        "blair"
+    ],
+    "blase": [
+        "blaze"
+    ],
+    "blayne": [
+        "blain",
+        "blaine"
+    ],
+    "blaze": [
+        "blase"
+    ],
+    "blessed": [
+        "blest"
+    ],
+    "blest": [
+        "blessed"
+    ],
+    "bloc": [
+        "block"
+    ],
+    "block": [
+        "bloc"
+    ],
+    "blueing": [
+        "bluing"
+    ],
+    "bluing": [
+        "blueing"
+    ],
+    "boar": [
+        "boer",
+        "bore"
+    ],
+    "boarder": [
+        "border"
+    ],
+    "bobbie": [
+        "bobby"
+    ],
+    "bobble": [
+        "bauble"
+    ],
+    "bobby": [
+        "bobbie"
+    ],
+    "boche": [
+        "botch"
+    ],
+    "bock": [
+        "bach"
+    ],
+    "boer": [
+        "boar",
+        "bore"
+    ],
+    "bolar": [
+        "bowler"
+    ],
+    "bole": [
+        "boll",
+        "bowl"
+    ],
+    "boll": [
+        "bole",
+        "bowl"
+    ],
+    "bolling": [
+        "bowling"
+    ],
+    "bologna": [
+        "baloney"
+    ],
+    "bolter": [
+        "boulter"
+    ],
+    "bom": [
+        "balm",
+        "bomb"
+    ],
+    "bomb": [
+        "balm",
+        "bom"
+    ],
+    "boney": [
+        "boni",
+        "bony"
+    ],
+    "boni": [
+        "boney",
+        "bony"
+    ],
+    "bonnie": [
+        "bonny"
+    ],
+    "bonny": [
+        "bonnie"
+    ],
+    "bony": [
+        "boney",
+        "boni"
+    ],
+    "boon": [
+        "boone"
+    ],
+    "boone": [
+        "boon"
+    ],
+    "border": [
+        "boarder"
+    ],
+    "bore": [
+        "boar",
+        "boer"
+    ],
+    "borg": [
+        "bourg"
+    ],
+    "born": [
+        "borne",
+        "bourn"
+    ],
+    "borne": [
+        "born",
+        "bourn"
+    ],
+    "boro": [
+        "burro",
+        "burrow"
+    ],
+    "bos": [
+        "boss"
+    ],
+    "boss": [
+        "bos"
+    ],
+    "botch": [
+        "boche"
+    ],
+    "bott": [
+        "baht",
+        "bought"
+    ],
+    "bough": [
+        "bow"
+    ],
+    "bought": [
+        "baht",
+        "bott"
+    ],
+    "boulter": [
+        "bolter"
+    ],
+    "bourg": [
+        "borg"
+    ],
+    "bourn": [
+        "born",
+        "borne"
+    ],
+    "bow": [
+        "bough"
+    ],
+    "bowl": [
+        "bole",
+        "boll"
+    ],
+    "bowler": [
+        "bolar"
+    ],
+    "bowling": [
+        "bolling"
+    ],
+    "brae": [
+        "bray",
+        "brey"
+    ],
+    "brake": [
+        "break"
+    ],
+    "braker": [
+        "breaker"
+    ],
+    "brandi": [
+        "brandy"
+    ],
+    "brandy": [
+        "brandi"
+    ],
+    "bray": [
+        "brae",
+        "brey"
+    ],
+    "breach": [
+        "breech"
+    ],
+    "bread": [
+        "bred"
+    ],
+    "break": [
+        "brake"
+    ],
+    "breaker": [
+        "braker"
+    ],
+    "breath": [
+        "breth"
+    ],
+    "bred": [
+        "bread"
+    ],
+    "brede": [
+        "breed"
+    ],
+    "breech": [
+        "breach"
+    ],
+    "breed": [
+        "brede"
+    ],
+    "bret": [
+        "brett"
+    ],
+    "breth": [
+        "breath"
+    ],
+    "brett": [
+        "bret"
+    ],
+    "brey": [
+        "brae",
+        "bray"
+    ],
+    "brian": [
+        "bryan"
+    ],
+    "briar": [
+        "brier"
+    ],
+    "brickel": [
+        "brickle"
+    ],
+    "brickle": [
+        "brickel"
+    ],
+    "bridal": [
+        "bridle"
+    ],
+    "bridle": [
+        "bridal"
+    ],
+    "brier": [
+        "briar"
+    ],
+    "britain": [
+        "briton",
+        "britten"
+    ],
+    "briton": [
+        "britain",
+        "britten"
+    ],
+    "britten": [
+        "britain",
+        "briton"
+    ],
+    "bronc": [
+        "bronk"
+    ],
+    "bronk": [
+        "bronc"
+    ],
+    "brook": [
+        "brooke"
+    ],
+    "brooke": [
+        "brook"
+    ],
+    "brough": [
+        "brow"
+    ],
+    "brow": [
+        "brough"
+    ],
+    "brut": [
+        "brute"
+    ],
+    "brute": [
+        "brut"
+    ],
+    "bryan": [
+        "brian"
+    ],
+    "build": [
+        "billed"
+    ],
+    "bungee": [
+        "bungey"
+    ],
+    "bungey": [
+        "bungee"
+    ],
+    "bur": [
+        "birr",
+        "burr"
+    ],
+    "burd": [
+        "bird"
+    ],
+    "burden": [
+        "burdon"
+    ],
+    "burdon": [
+        "burden"
+    ],
+    "burel": [
+        "beryl"
+    ],
+    "burg": [
+        "berg"
+    ],
+    "burgher": [
+        "berger"
+    ],
+    "burke": [
+        "birk"
+    ],
+    "burl": [
+        "birle"
+    ],
+    "burley": [
+        "burly"
+    ],
+    "burly": [
+        "burley"
+    ],
+    "burn": [
+        "bern",
+        "berne"
+    ],
+    "burr": [
+        "birr",
+        "bur"
+    ],
+    "burro": [
+        "boro",
+        "burrow"
+    ],
+    "burrow": [
+        "boro",
+        "burro"
+    ],
+    "burt": [
+        "bert"
+    ],
+    "bury": [
+        "berri",
+        "berry"
+    ],
+    "bus": [
+        "buss"
+    ],
+    "buss": [
+        "bus"
+    ],
+    "but": [
+        "butt"
+    ],
+    "bute": [
+        "butte"
+    ],
+    "butt": [
+        "but"
+    ],
+    "butte": [
+        "bute"
+    ],
+    "buy": [
+        "bae",
+        "bye"
+    ],
+    "bye": [
+        "bae",
+        "buy"
+    ],
+    "byron": [
+        "biron"
+    ],
+    "cache": [
+        "cash"
+    ],
+    "cain": [
+        "cane"
+    ],
+    "calix": [
+        "calyx"
+    ],
+    "callous": [
+        "callus"
+    ],
+    "callus": [
+        "callous"
+    ],
+    "calyx": [
+        "calix"
+    ],
+    "caman": [
+        "cayman"
+    ],
+    "can": [
+        "kan"
+    ],
+    "cana": [
+        "kana"
+    ],
+    "cane": [
+        "cain"
+    ],
+    "cannon": [
+        "canon"
+    ],
+    "canon": [
+        "cannon"
+    ],
+    "canter": [
+        "cantor"
+    ],
+    "cantor": [
+        "canter"
+    ],
+    "canvas": [
+        "canvass"
+    ],
+    "canvass": [
+        "canvas"
+    ],
+    "cap": [
+        "kapp"
+    ],
+    "capper": [
+        "kapur"
+    ],
+    "car": [
+        "carr"
+    ],
+    "careen": [
+        "corinne"
+    ],
+    "carl": [
+        "karl"
+    ],
+    "carman": [
+        "carmen",
+        "carmine"
+    ],
+    "carmen": [
+        "carman",
+        "carmine"
+    ],
+    "carmine": [
+        "carman",
+        "carmen"
+    ],
+    "carol": [
+        "carole",
+        "carrel"
+    ],
+    "carole": [
+        "carol",
+        "carrel"
+    ],
+    "carr": [
+        "car"
+    ],
+    "carrel": [
+        "carol",
+        "carole"
+    ],
+    "carrie": [
+        "cary",
+        "kari",
+        "kerri",
+        "kerry"
+    ],
+    "cart": [
+        "carte"
+    ],
+    "carte": [
+        "cart"
+    ],
+    "cary": [
+        "carrie",
+        "kari",
+        "kerri",
+        "kerry"
+    ],
+    "caryl": [
+        "karel"
+    ],
+    "cash": [
+        "cache"
+    ],
+    "casino": [
+        "cassino"
+    ],
+    "caspar": [
+        "casper"
+    ],
+    "casper": [
+        "caspar"
+    ],
+    "cassino": [
+        "casino"
+    ],
+    "cast": [
+        "caste"
+    ],
+    "caste": [
+        "cast"
+    ],
+    "caster": [
+        "castor"
+    ],
+    "castor": [
+        "caster"
+    ],
+    "cat": [
+        "kat"
+    ],
+    "cate": [
+        "kate"
+    ],
+    "cathy": [
+        "kathy"
+    ],
+    "catsup": [
+        "ketchup"
+    ],
+    "caudal": [
+        "coddle"
+    ],
+    "caught": [
+        "cot",
+        "khat"
+    ],
+    "caul": [
+        "coll"
+    ],
+    "cause": [
+        "coz"
+    ],
+    "cay": [
+        "kay"
+    ],
+    "cayman": [
+        "caman"
+    ],
+    "cedar": [
+        "ceder"
+    ],
+    "cede": [
+        "seed"
+    ],
+    "ceder": [
+        "cedar"
+    ],
+    "ceiling": [
+        "sealing"
+    ],
+    "cell": [
+        "sell"
+    ],
+    "cella": [
+        "sella"
+    ],
+    "cellar": [
+        "seller"
+    ],
+    "censer": [
+        "censor",
+        "sensor"
+    ],
+    "censor": [
+        "censer",
+        "sensor"
+    ],
+    "cent": [
+        "scent",
+        "sent"
+    ],
+    "cereal": [
+        "serial"
+    ],
+    "chalk": [
+        "chock"
+    ],
+    "chao": [
+        "chow"
+    ],
+    "charley": [
+        "charlie"
+    ],
+    "charlie": [
+        "charley"
+    ],
+    "charon": [
+        "karen"
+    ],
+    "check": [
+        "czech"
+    ],
+    "cheetah": [
+        "chita"
+    ],
+    "chen": [
+        "chien"
+    ],
+    "cheney": [
+        "cheyney"
+    ],
+    "chew": [
+        "chou",
+        "tew"
+    ],
+    "cheyney": [
+        "cheney"
+    ],
+    "chi": [
+        "kai"
+    ],
+    "chic": [
+        "sheik"
+    ],
+    "chien": [
+        "chen"
+    ],
+    "childe": [
+        "chilled"
+    ],
+    "chile": [
+        "chili",
+        "chilly"
+    ],
+    "chili": [
+        "chile",
+        "chilly"
+    ],
+    "chilled": [
+        "childe"
+    ],
+    "chilly": [
+        "chile",
+        "chili"
+    ],
+    "chita": [
+        "cheetah"
+    ],
+    "chock": [
+        "chalk"
+    ],
+    "choral": [
+        "coral"
+    ],
+    "chord": [
+        "cord"
+    ],
+    "chou": [
+        "chew",
+        "tew"
+    ],
+    "chow": [
+        "chao"
+    ],
+    "chris": [
+        "cris",
+        "criss",
+        "kris"
+    ],
+    "chrome": [
+        "krome"
+    ],
+    "chute": [
+        "shoot"
+    ],
+    "cid": [
+        "sid",
+        "syd"
+    ],
+    "cider": [
+        "sider"
+    ],
+    "cinch": [
+        "synch"
+    ],
+    "cinque": [
+        "sink",
+        "sync"
+    ],
+    "cist": [
+        "cyst"
+    ],
+    "cite": [
+        "sight",
+        "site"
+    ],
+    "claire": [
+        "clare"
+    ],
+    "clan": [
+        "klan"
+    ],
+    "clare": [
+        "claire"
+    ],
+    "claude": [
+        "clawed"
+    ],
+    "clawed": [
+        "claude"
+    ],
+    "cleave": [
+        "cleve"
+    ],
+    "cleek": [
+        "clique"
+    ],
+    "cleve": [
+        "cleave"
+    ],
+    "cling": [
+        "kling"
+    ],
+    "clique": [
+        "cleek"
+    ],
+    "coal": [
+        "cole",
+        "kohl",
+        "kol"
+    ],
+    "coan": [
+        "cone"
+    ],
+    "coarse": [
+        "corse",
+        "course"
+    ],
+    "coat": [
+        "cote"
+    ],
+    "cocco": [
+        "cocoa",
+        "koko"
+    ],
+    "cocky": [
+        "khaki"
+    ],
+    "cocoa": [
+        "cocco",
+        "koko"
+    ],
+    "coddle": [
+        "caudal"
+    ],
+    "cohen": [
+        "kohen"
+    ],
+    "cola": [
+        "colla"
+    ],
+    "colan": [
+        "colon"
+    ],
+    "cole": [
+        "coal",
+        "kohl",
+        "kol"
+    ],
+    "coll": [
+        "caul"
+    ],
+    "colla": [
+        "cola"
+    ],
+    "collar": [
+        "koller"
+    ],
+    "colley": [
+        "collie",
+        "colly"
+    ],
+    "collie": [
+        "colley",
+        "colly"
+    ],
+    "collum": [
+        "column"
+    ],
+    "colly": [
+        "colley",
+        "collie"
+    ],
+    "colon": [
+        "colan"
+    ],
+    "colonel": [
+        "kernel"
+    ],
+    "color": [
+        "culler"
+    ],
+    "column": [
+        "collum"
+    ],
+    "come": [
+        "cum"
+    ],
+    "con": [
+        "conn",
+        "khan",
+        "kon"
+    ],
+    "cone": [
+        "coan"
+    ],
+    "conn": [
+        "con",
+        "khan",
+        "kon"
+    ],
+    "coo": [
+        "coup"
+    ],
+    "coolly": [
+        "coulee"
+    ],
+    "coop": [
+        "coupe"
+    ],
+    "cor": [
+        "core",
+        "corps"
+    ],
+    "cora": [
+        "kora"
+    ],
+    "coral": [
+        "choral"
+    ],
+    "cord": [
+        "chord"
+    ],
+    "core": [
+        "cor",
+        "corps"
+    ],
+    "corey": [
+        "corrie",
+        "cory",
+        "kory"
+    ],
+    "corinne": [
+        "careen"
+    ],
+    "corona": [
+        "korona"
+    ],
+    "corps": [
+        "cor",
+        "core"
+    ],
+    "corrie": [
+        "corey",
+        "cory",
+        "kory"
+    ],
+    "corse": [
+        "coarse",
+        "course"
+    ],
+    "cory": [
+        "corey",
+        "corrie",
+        "kory"
+    ],
+    "cos": [
+        "coss"
+    ],
+    "coss": [
+        "cos"
+    ],
+    "cosy": [
+        "cozy"
+    ],
+    "cot": [
+        "caught",
+        "khat"
+    ],
+    "cote": [
+        "coat"
+    ],
+    "coto": [
+        "koto"
+    ],
+    "coulee": [
+        "coolly"
+    ],
+    "council": [
+        "counsel"
+    ],
+    "counsel": [
+        "council"
+    ],
+    "coup": [
+        "coo"
+    ],
+    "coupe": [
+        "coop"
+    ],
+    "courier": [
+        "currier"
+    ],
+    "course": [
+        "coarse",
+        "corse"
+    ],
+    "coz": [
+        "cause"
+    ],
+    "cozy": [
+        "cosy"
+    ],
+    "craft": [
+        "kraft"
+    ],
+    "crain": [
+        "crane"
+    ],
+    "crane": [
+        "crain"
+    ],
+    "crass": [
+        "kras"
+    ],
+    "crawley": [
+        "crawly"
+    ],
+    "crawly": [
+        "crawley"
+    ],
+    "crea": [
+        "cree"
+    ],
+    "creak": [
+        "creek"
+    ],
+    "cree": [
+        "crea"
+    ],
+    "creek": [
+        "creak"
+    ],
+    "crewel": [
+        "cruel"
+    ],
+    "cris": [
+        "chris",
+        "criss",
+        "kris"
+    ],
+    "criss": [
+        "chris",
+        "cris",
+        "kris"
+    ],
+    "cro": [
+        "crow"
+    ],
+    "croc": [
+        "crock"
+    ],
+    "crock": [
+        "croc"
+    ],
+    "croon": [
+        "kroon"
+    ],
+    "crout": [
+        "kraut"
+    ],
+    "crow": [
+        "cro"
+    ],
+    "cruel": [
+        "crewel"
+    ],
+    "cruise": [
+        "cruse"
+    ],
+    "crum": [
+        "crumb"
+    ],
+    "crumb": [
+        "crum"
+    ],
+    "cruse": [
+        "cruise"
+    ],
+    "cuba": [
+        "kuba"
+    ],
+    "cue": [
+        "kyu",
+        "queue"
+    ],
+    "culler": [
+        "color"
+    ],
+    "cum": [
+        "come"
+    ],
+    "cur": [
+        "ker"
+    ],
+    "curd": [
+        "kurd"
+    ],
+    "currier": [
+        "courier"
+    ],
+    "curt": [
+        "kurt"
+    ],
+    "cymbal": [
+        "symbol"
+    ],
+    "cyst": [
+        "cist"
+    ],
+    "czar": [
+        "tsar"
+    ],
+    "czech": [
+        "check"
+    ],
+    "dae": [
+        "day",
+        "dey"
+    ],
+    "daemon": [
+        "demon"
+    ],
+    "dail": [
+        "dale"
+    ],
+    "dain": [
+        "dane",
+        "deign"
+    ],
+    "dairy": [
+        "derry"
+    ],
+    "dais": [
+        "days",
+        "daze"
+    ],
+    "dale": [
+        "dail"
+    ],
+    "dali": [
+        "dolly"
+    ],
+    "dam": [
+        "damme",
+        "damn"
+    ],
+    "daman": [
+        "damon"
+    ],
+    "damme": [
+        "dam",
+        "damn"
+    ],
+    "damn": [
+        "dam",
+        "damme"
+    ],
+    "damon": [
+        "daman"
+    ],
+    "dane": [
+        "dain",
+        "deign"
+    ],
+    "dani": [
+        "doney",
+        "donnie"
+    ],
+    "dannie": [
+        "danny"
+    ],
+    "danny": [
+        "dannie"
+    ],
+    "dao": [
+        "dow"
+    ],
+    "dare": [
+        "darr"
+    ],
+    "daren": [
+        "darin"
+    ],
+    "darin": [
+        "daren"
+    ],
+    "darr": [
+        "dare"
+    ],
+    "darrell": [
+        "darryl",
+        "daryl"
+    ],
+    "darryl": [
+        "darrell",
+        "daryl"
+    ],
+    "daryl": [
+        "darrell",
+        "darryl"
+    ],
+    "daub": [
+        "daube"
+    ],
+    "daube": [
+        "daub"
+    ],
+    "day": [
+        "dae",
+        "dey"
+    ],
+    "days": [
+        "dais",
+        "daze"
+    ],
+    "daze": [
+        "dais",
+        "days"
+    ],
+    "dear": [
+        "deer"
+    ],
+    "debbie": [
+        "debby",
+        "debi"
+    ],
+    "debby": [
+        "debbie",
+        "debi"
+    ],
+    "debi": [
+        "debbie",
+        "debby"
+    ],
+    "deem": [
+        "diem"
+    ],
+    "deer": [
+        "dear"
+    ],
+    "defence": [
+        "defense"
+    ],
+    "defense": [
+        "defence"
+    ],
+    "deign": [
+        "dain",
+        "dane"
+    ],
+    "del": [
+        "dell"
+    ],
+    "dell": [
+        "del"
+    ],
+    "demon": [
+        "daemon"
+    ],
+    "denis": [
+        "dennis"
+    ],
+    "dennis": [
+        "denis"
+    ],
+    "derek": [
+        "derrick"
+    ],
+    "dern": [
+        "durn"
+    ],
+    "derrick": [
+        "derek"
+    ],
+    "derry": [
+        "dairy"
+    ],
+    "descent": [
+        "dissent"
+    ],
+    "dew": [
+        "due"
+    ],
+    "dewey": [
+        "dewy"
+    ],
+    "dewy": [
+        "dewey"
+    ],
+    "dey": [
+        "dae",
+        "day"
+    ],
+    "dhole": [
+        "dole"
+    ],
+    "dian": [
+        "dion"
+    ],
+    "dice": [
+        "dyce"
+    ],
+    "dickey": [
+        "dicky"
+    ],
+    "dicky": [
+        "dickey"
+    ],
+    "die": [
+        "dye"
+    ],
+    "diem": [
+        "deem"
+    ],
+    "dike": [
+        "dyke"
+    ],
+    "dion": [
+        "dian"
+    ],
+    "dis": [
+        "diss"
+    ],
+    "disc": [
+        "disk"
+    ],
+    "disk": [
+        "disc"
+    ],
+    "diss": [
+        "dis"
+    ],
+    "dissent": [
+        "descent"
+    ],
+    "dixie": [
+        "dixy"
+    ],
+    "dixy": [
+        "dixie"
+    ],
+    "doc": [
+        "dock"
+    ],
+    "dock": [
+        "doc"
+    ],
+    "doe": [
+        "dough"
+    ],
+    "dol": [
+        "doll"
+    ],
+    "dole": [
+        "dhole"
+    ],
+    "doll": [
+        "dol"
+    ],
+    "dolly": [
+        "dali"
+    ],
+    "don": [
+        "donn"
+    ],
+    "done": [
+        "donne",
+        "dun",
+        "dunne"
+    ],
+    "doney": [
+        "dani",
+        "donnie"
+    ],
+    "donn": [
+        "don"
+    ],
+    "donne": [
+        "done",
+        "dun",
+        "dunne"
+    ],
+    "donnie": [
+        "dani",
+        "doney"
+    ],
+    "dooley": [
+        "duly"
+    ],
+    "dori": [
+        "dory"
+    ],
+    "dory": [
+        "dori"
+    ],
+    "dos": [
+        "doss"
+    ],
+    "doss": [
+        "dos"
+    ],
+    "doug": [
+        "dug"
+    ],
+    "dough": [
+        "doe"
+    ],
+    "douse": [
+        "dowse"
+    ],
+    "dow": [
+        "dao"
+    ],
+    "dowse": [
+        "douse"
+    ],
+    "draft": [
+        "draught"
+    ],
+    "drain": [
+        "draine"
+    ],
+    "draine": [
+        "drain"
+    ],
+    "draught": [
+        "draft"
+    ],
+    "droop": [
+        "drupe"
+    ],
+    "drupe": [
+        "droop"
+    ],
+    "dual": [
+        "duel"
+    ],
+    "dualist": [
+        "duelist"
+    ],
+    "duane": [
+        "dwayne"
+    ],
+    "due": [
+        "dew"
+    ],
+    "duel": [
+        "dual"
+    ],
+    "duelist": [
+        "dualist"
+    ],
+    "dug": [
+        "doug"
+    ],
+    "duly": [
+        "dooley"
+    ],
+    "dum": [
+        "dumb"
+    ],
+    "dumb": [
+        "dum"
+    ],
+    "dun": [
+        "done",
+        "donne",
+        "dunne"
+    ],
+    "dunne": [
+        "done",
+        "donne",
+        "dun"
+    ],
+    "durn": [
+        "dern"
+    ],
+    "dwayne": [
+        "duane"
+    ],
+    "dyce": [
+        "dice"
+    ],
+    "dye": [
+        "die"
+    ],
+    "dyeing": [
+        "dying"
+    ],
+    "dying": [
+        "dyeing"
+    ],
+    "dyke": [
+        "dike"
+    ],
+    "earl": [
+        "earle"
+    ],
+    "earle": [
+        "earl"
+    ],
+    "earn": [
+        "erne",
+        "urn"
+    ],
+    "eave": [
+        "eve"
+    ],
+    "eddie": [
+        "eddy"
+    ],
+    "eddy": [
+        "eddie"
+    ],
+    "edmond": [
+        "edmund"
+    ],
+    "edmund": [
+        "edmond"
+    ],
+    "eerie": [
+        "erie"
+    ],
+    "eight": [
+        "ate"
+    ],
+    "eileen": [
+        "aileen"
+    ],
+    "eliot": [
+        "elliot",
+        "elliott"
+    ],
+    "ell": [
+        "elle"
+    ],
+    "elle": [
+        "ell"
+    ],
+    "elliot": [
+        "eliot",
+        "elliott"
+    ],
+    "elliott": [
+        "eliot",
+        "elliot"
+    ],
+    "embed": [
+        "imbed"
+    ],
+    "emerse": [
+        "immerse"
+    ],
+    "emmet": [
+        "emmett"
+    ],
+    "emmett": [
+        "emmet"
+    ],
+    "empanel": [
+        "impanel"
+    ],
+    "eon": [
+        "ian"
+    ],
+    "ere": [
+        "aer",
+        "air",
+        "err",
+        "eyre",
+        "heir"
+    ],
+    "eric": [
+        "erick",
+        "erik"
+    ],
+    "erica": [
+        "erika"
+    ],
+    "erick": [
+        "eric",
+        "erik"
+    ],
+    "erie": [
+        "eerie"
+    ],
+    "erik": [
+        "eric",
+        "erick"
+    ],
+    "erika": [
+        "erica"
+    ],
+    "erma": [
+        "irma"
+    ],
+    "ermine": [
+        "urman"
+    ],
+    "erne": [
+        "earn",
+        "urn"
+    ],
+    "err": [
+        "aer",
+        "air",
+        "ere",
+        "eyre",
+        "heir"
+    ],
+    "erring": [
+        "airing"
+    ],
+    "ester": [
+        "esther"
+    ],
+    "esther": [
+        "ester"
+    ],
+    "ethel": [
+        "ethyl"
+    ],
+    "ethyl": [
+        "ethel"
+    ],
+    "eva": [
+        "ava"
+    ],
+    "eve": [
+        "eave"
+    ],
+    "ewe": [
+        "yew",
+        "you"
+    ],
+    "eye": [
+        "aye"
+    ],
+    "eyed": [
+        "ide"
+    ],
+    "eyre": [
+        "aer",
+        "air",
+        "ere",
+        "err",
+        "heir"
+    ],
+    "eyrie": [
+        "aerie",
+        "airy",
+        "ary"
+    ],
+    "fae": [
+        "phi"
+    ],
+    "fain": [
+        "feign"
+    ],
+    "faint": [
+        "feint"
+    ],
+    "fair": [
+        "fare"
+    ],
+    "fairy": [
+        "ferri",
+        "ferry"
+    ],
+    "fare": [
+        "fair"
+    ],
+    "faro": [
+        "pharaoh"
+    ],
+    "farrier": [
+        "ferrier"
+    ],
+    "fay": [
+        "fey"
+    ],
+    "faze": [
+        "phase"
+    ],
+    "feel": [
+        "feil"
+    ],
+    "feign": [
+        "fain"
+    ],
+    "feil": [
+        "feel"
+    ],
+    "feint": [
+        "faint"
+    ],
+    "ferri": [
+        "fairy",
+        "ferry"
+    ],
+    "ferrier": [
+        "farrier"
+    ],
+    "ferry": [
+        "fairy",
+        "ferri"
+    ],
+    "few": [
+        "phew"
+    ],
+    "fey": [
+        "fay"
+    ],
+    "fike": [
+        "fyke"
+    ],
+    "file": [
+        "phyle"
+    ],
+    "fill": [
+        "phil"
+    ],
+    "fillip": [
+        "philip"
+    ],
+    "fin": [
+        "finn"
+    ],
+    "finish": [
+        "finnish"
+    ],
+    "finn": [
+        "fin"
+    ],
+    "finnish": [
+        "finish"
+    ],
+    "fir": [
+        "fur"
+    ],
+    "fisher": [
+        "fissure"
+    ],
+    "fissure": [
+        "fisher"
+    ],
+    "flack": [
+        "flak"
+    ],
+    "flair": [
+        "flare"
+    ],
+    "flak": [
+        "flack"
+    ],
+    "flare": [
+        "flair"
+    ],
+    "flea": [
+        "flee"
+    ],
+    "flee": [
+        "flea"
+    ],
+    "flew": [
+        "flu",
+        "flue"
+    ],
+    "flier": [
+        "flyer"
+    ],
+    "flo": [
+        "floe",
+        "flow"
+    ],
+    "floc": [
+        "flock"
+    ],
+    "flock": [
+        "floc"
+    ],
+    "floe": [
+        "flo",
+        "flow"
+    ],
+    "flour": [
+        "flower"
+    ],
+    "flow": [
+        "flo",
+        "floe"
+    ],
+    "flower": [
+        "flour"
+    ],
+    "flu": [
+        "flew",
+        "flue"
+    ],
+    "flue": [
+        "flew",
+        "flu"
+    ],
+    "flyer": [
+        "flier"
+    ],
+    "foo": [
+        "phu"
+    ],
+    "for": [
+        "fore",
+        "four"
+    ],
+    "forced": [
+        "forst"
+    ],
+    "fore": [
+        "for",
+        "four"
+    ],
+    "forego": [
+        "forgo"
+    ],
+    "forgo": [
+        "forego"
+    ],
+    "forst": [
+        "forced"
+    ],
+    "forth": [
+        "fourth"
+    ],
+    "foul": [
+        "fowl"
+    ],
+    "four": [
+        "for",
+        "fore"
+    ],
+    "fourth": [
+        "forth"
+    ],
+    "fowl": [
+        "foul"
+    ],
+    "fraiser": [
+        "frasier"
+    ],
+    "franc": [
+        "frank"
+    ],
+    "frank": [
+        "franc"
+    ],
+    "frase": [
+        "fraze",
+        "phrase"
+    ],
+    "frasier": [
+        "fraiser"
+    ],
+    "fraze": [
+        "frase",
+        "phrase"
+    ],
+    "freddie": [
+        "freddy"
+    ],
+    "freddy": [
+        "freddie"
+    ],
+    "freeze": [
+        "frieze"
+    ],
+    "fret": [
+        "frett"
+    ],
+    "frett": [
+        "fret"
+    ],
+    "friar": [
+        "frier",
+        "fryer"
+    ],
+    "frier": [
+        "friar",
+        "fryer"
+    ],
+    "frieze": [
+        "freeze"
+    ],
+    "fryer": [
+        "friar",
+        "frier"
+    ],
+    "fund": [
+        "pfund"
+    ],
+    "fur": [
+        "fir"
+    ],
+    "fyke": [
+        "fike"
+    ],
+    "gabby": [
+        "gaby"
+    ],
+    "gaby": [
+        "gabby"
+    ],
+    "gael": [
+        "gail",
+        "gale"
+    ],
+    "gaff": [
+        "gaffe"
+    ],
+    "gaffe": [
+        "gaff"
+    ],
+    "gage": [
+        "gauge"
+    ],
+    "gail": [
+        "gael",
+        "gale"
+    ],
+    "gaily": [
+        "galey"
+    ],
+    "gair": [
+        "gare"
+    ],
+    "gait": [
+        "gate"
+    ],
+    "gaiter": [
+        "gator"
+    ],
+    "gala": [
+        "galla"
+    ],
+    "gale": [
+        "gael",
+        "gail"
+    ],
+    "galey": [
+        "gaily"
+    ],
+    "gali": [
+        "golly"
+    ],
+    "galik": [
+        "gallic"
+    ],
+    "gall": [
+        "gaul"
+    ],
+    "galla": [
+        "gala"
+    ],
+    "galley": [
+        "galli"
+    ],
+    "galli": [
+        "galley"
+    ],
+    "gallic": [
+        "galik"
+    ],
+    "galt": [
+        "gault"
+    ],
+    "gare": [
+        "gair"
+    ],
+    "gaspar": [
+        "gasper"
+    ],
+    "gasper": [
+        "gaspar"
+    ],
+    "gate": [
+        "gait"
+    ],
+    "gator": [
+        "gaiter"
+    ],
+    "gauge": [
+        "gage"
+    ],
+    "gaul": [
+        "gall"
+    ],
+    "gault": [
+        "galt"
+    ],
+    "gaus": [
+        "gauze"
+    ],
+    "gauze": [
+        "gaus"
+    ],
+    "gean": [
+        "gene",
+        "jean",
+        "jeanne"
+    ],
+    "gecko": [
+        "gekko"
+    ],
+    "gekko": [
+        "gecko"
+    ],
+    "gel": [
+        "gell",
+        "jell"
+    ],
+    "gell": [
+        "gel",
+        "jell"
+    ],
+    "gem": [
+        "jem"
+    ],
+    "gen": [
+        "general"
+    ],
+    "gena": [
+        "jenna"
+    ],
+    "gene": [
+        "gean",
+        "jean",
+        "jeanne"
+    ],
+    "general": [
+        "gen"
+    ],
+    "genie": [
+        "jeanie",
+        "jeannie"
+    ],
+    "genson": [
+        "jenson"
+    ],
+    "geoff": [
+        "jeff"
+    ],
+    "gerald": [
+        "jerald"
+    ],
+    "gest": [
+        "jest"
+    ],
+    "gibe": [
+        "jibe"
+    ],
+    "gil": [
+        "gill"
+    ],
+    "gild": [
+        "guild"
+    ],
+    "gilder": [
+        "guilder"
+    ],
+    "gill": [
+        "gil"
+    ],
+    "gillie": [
+        "gilly"
+    ],
+    "gilly": [
+        "gillie"
+    ],
+    "gilt": [
+        "guilt"
+    ],
+    "gin": [
+        "jin"
+    ],
+    "ging": [
+        "jing"
+    ],
+    "glen": [
+        "glenn"
+    ],
+    "glenn": [
+        "glen"
+    ],
+    "glor": [
+        "glore"
+    ],
+    "glore": [
+        "glor"
+    ],
+    "gnash": [
+        "nash"
+    ],
+    "gnat": [
+        "nat"
+    ],
+    "gneiss": [
+        "nice"
+    ],
+    "gnome": [
+        "noam",
+        "nome"
+    ],
+    "gnu": [
+        "knew",
+        "new"
+    ],
+    "goldie": [
+        "goldy"
+    ],
+    "goldy": [
+        "goldie"
+    ],
+    "golly": [
+        "gali"
+    ],
+    "graff": [
+        "graph"
+    ],
+    "grain": [
+        "grein"
+    ],
+    "graph": [
+        "graff"
+    ],
+    "grate": [
+        "great"
+    ],
+    "grater": [
+        "greater"
+    ],
+    "gray": [
+        "grey"
+    ],
+    "great": [
+        "grate"
+    ],
+    "greater": [
+        "grater"
+    ],
+    "greave": [
+        "grieve"
+    ],
+    "greg": [
+        "gregg"
+    ],
+    "gregg": [
+        "greg"
+    ],
+    "grein": [
+        "grain"
+    ],
+    "grey": [
+        "gray"
+    ],
+    "grieve": [
+        "greave"
+    ],
+    "grill": [
+        "grille"
+    ],
+    "grille": [
+        "grill"
+    ],
+    "grim": [
+        "grimme"
+    ],
+    "grimme": [
+        "grim"
+    ],
+    "grisly": [
+        "grizzly"
+    ],
+    "grizzly": [
+        "grisly"
+    ],
+    "groan": [
+        "grown"
+    ],
+    "grocer": [
+        "grosser"
+    ],
+    "gros": [
+        "gross",
+        "grosz"
+    ],
+    "gross": [
+        "gros",
+        "grosz"
+    ],
+    "grosser": [
+        "grocer"
+    ],
+    "grosz": [
+        "gros",
+        "gross"
+    ],
+    "grown": [
+        "groan"
+    ],
+    "guild": [
+        "gild"
+    ],
+    "guilder": [
+        "gilder"
+    ],
+    "guilt": [
+        "gilt"
+    ],
+    "gul": [
+        "gull"
+    ],
+    "gull": [
+        "gul"
+    ],
+    "gunnar": [
+        "gunner"
+    ],
+    "gunner": [
+        "gunnar"
+    ],
+    "gus": [
+        "guss"
+    ],
+    "guss": [
+        "gus"
+    ],
+    "gut": [
+        "gutt"
+    ],
+    "gutt": [
+        "gut"
+    ],
+    "guy": [
+        "ngai"
+    ],
+    "gym": [
+        "jim"
+    ],
+    "haab": [
+        "hob"
+    ],
+    "haff": [
+        "half"
+    ],
+    "haik": [
+        "hake"
+    ],
+    "hail": [
+        "hale"
+    ],
+    "hair": [
+        "haire",
+        "hare"
+    ],
+    "haire": [
+        "hair",
+        "hare"
+    ],
+    "hairy": [
+        "harry"
+    ],
+    "hake": [
+        "haik"
+    ],
+    "hakeem": [
+        "hakim"
+    ],
+    "hakim": [
+        "hakeem"
+    ],
+    "hale": [
+        "hail"
+    ],
+    "half": [
+        "haff"
+    ],
+    "hall": [
+        "haul"
+    ],
+    "halve": [
+        "have"
+    ],
+    "han": [
+        "hohn",
+        "hon"
+    ],
+    "hangar": [
+        "hanger"
+    ],
+    "hanger": [
+        "hangar"
+    ],
+    "hao": [
+        "hau",
+        "how",
+        "howe"
+    ],
+    "harbor": [
+        "harbour"
+    ],
+    "harbour": [
+        "harbor"
+    ],
+    "hare": [
+        "hair",
+        "haire"
+    ],
+    "harman": [
+        "harmon"
+    ],
+    "harmon": [
+        "harman"
+    ],
+    "harold": [
+        "herald"
+    ],
+    "harry": [
+        "hairy"
+    ],
+    "hart": [
+        "heart"
+    ],
+    "hasan": [
+        "hazen"
+    ],
+    "hassel": [
+        "hassle"
+    ],
+    "hassle": [
+        "hassel"
+    ],
+    "hat": [
+        "hatt"
+    ],
+    "hatt": [
+        "hat"
+    ],
+    "hattie": [
+        "hatty"
+    ],
+    "hatty": [
+        "hattie"
+    ],
+    "hau": [
+        "hao",
+        "how",
+        "howe"
+    ],
+    "haugh": [
+        "haw"
+    ],
+    "haul": [
+        "hall"
+    ],
+    "hause": [
+        "house"
+    ],
+    "have": [
+        "halve"
+    ],
+    "haw": [
+        "haugh"
+    ],
+    "hay": [
+        "hey"
+    ],
+    "hazel": [
+        "hazle"
+    ],
+    "hazen": [
+        "hasan"
+    ],
+    "hazle": [
+        "hazel"
+    ],
+    "heal": [
+        "heel"
+    ],
+    "heald": [
+        "heeled"
+    ],
+    "healing": [
+        "heling"
+    ],
+    "hear": [
+        "here"
+    ],
+    "hearst": [
+        "hurst"
+    ],
+    "heart": [
+        "hart"
+    ],
+    "heel": [
+        "heal"
+    ],
+    "heeled": [
+        "heald"
+    ],
+    "height": [
+        "hight"
+    ],
+    "heir": [
+        "aer",
+        "air",
+        "ere",
+        "err",
+        "eyre"
+    ],
+    "helen": [
+        "hellen"
+    ],
+    "heling": [
+        "healing"
+    ],
+    "hellen": [
+        "helen"
+    ],
+    "herald": [
+        "harold"
+    ],
+    "here": [
+        "hear"
+    ],
+    "herl": [
+        "hurl"
+    ],
+    "herling": [
+        "hurling"
+    ],
+    "hern": [
+        "herne"
+    ],
+    "herne": [
+        "hern"
+    ],
+    "hero": [
+        "hiro"
+    ],
+    "heroin": [
+        "heroine"
+    ],
+    "heroine": [
+        "heroin"
+    ],
+    "hettie": [
+        "hetty"
+    ],
+    "hetty": [
+        "hettie"
+    ],
+    "hew": [
+        "hue",
+        "hugh"
+    ],
+    "hey": [
+        "hay"
+    ],
+    "higher": [
+        "hire"
+    ],
+    "highman": [
+        "hymen"
+    ],
+    "hight": [
+        "height"
+    ],
+    "hilary": [
+        "hillary"
+    ],
+    "hillary": [
+        "hilary"
+    ],
+    "him": [
+        "hymn"
+    ],
+    "hire": [
+        "higher"
+    ],
+    "hiro": [
+        "hero"
+    ],
+    "hoar": [
+        "whore"
+    ],
+    "hoard": [
+        "horde"
+    ],
+    "hoarse": [
+        "horse"
+    ],
+    "hob": [
+        "haab"
+    ],
+    "hohn": [
+        "han",
+        "hon"
+    ],
+    "hoi": [
+        "hoy"
+    ],
+    "hole": [
+        "whole"
+    ],
+    "holm": [
+        "home"
+    ],
+    "holy": [
+        "wholly"
+    ],
+    "home": [
+        "holm"
+    ],
+    "hon": [
+        "han",
+        "hohn"
+    ],
+    "horde": [
+        "hoard"
+    ],
+    "horse": [
+        "hoarse"
+    ],
+    "hostel": [
+        "hostile"
+    ],
+    "hostile": [
+        "hostel"
+    ],
+    "hough": [
+        "huff"
+    ],
+    "hour": [
+        "our"
+    ],
+    "house": [
+        "hause"
+    ],
+    "how": [
+        "hao",
+        "hau",
+        "howe"
+    ],
+    "howe": [
+        "hao",
+        "hau",
+        "how"
+    ],
+    "hoy": [
+        "hoi"
+    ],
+    "hue": [
+        "hew",
+        "hugh"
+    ],
+    "huff": [
+        "hough"
+    ],
+    "hugh": [
+        "hew",
+        "hue"
+    ],
+    "hughes": [
+        "huse"
+    ],
+    "hurl": [
+        "herl"
+    ],
+    "hurley": [
+        "hurly"
+    ],
+    "hurling": [
+        "herling"
+    ],
+    "hurly": [
+        "hurley"
+    ],
+    "hurri": [
+        "hurry"
+    ],
+    "hurry": [
+        "hurri"
+    ],
+    "hurst": [
+        "hearst"
+    ],
+    "huse": [
+        "hughes"
+    ],
+    "hymen": [
+        "highman"
+    ],
+    "hymn": [
+        "him"
+    ],
+    "ian": [
+        "eon"
+    ],
+    "ich": [
+        "itch"
+    ],
+    "ide": [
+        "eyed"
+    ],
+    "idle": [
+        "idol"
+    ],
+    "idol": [
+        "idle"
+    ],
+    "imbed": [
+        "embed"
+    ],
+    "immerse": [
+        "emerse"
+    ],
+    "impanel": [
+        "empanel"
+    ],
+    "indict": [
+        "indite"
+    ],
+    "indite": [
+        "indict"
+    ],
+    "irma": [
+        "erma"
+    ],
+    "isle": [
+        "aisle"
+    ],
+    "itch": [
+        "ich"
+    ],
+    "izard": [
+        "izzard"
+    ],
+    "izzard": [
+        "izard"
+    ],
+    "jam": [
+        "jamb"
+    ],
+    "jamb": [
+        "jam"
+    ],
+    "jami": [
+        "jamie"
+    ],
+    "jamie": [
+        "jami"
+    ],
+    "jan": [
+        "jann"
+    ],
+    "jann": [
+        "jan"
+    ],
+    "jean": [
+        "gean",
+        "gene",
+        "jeanne"
+    ],
+    "jeanie": [
+        "genie",
+        "jeannie"
+    ],
+    "jeanne": [
+        "gean",
+        "gene",
+        "jean"
+    ],
+    "jeannie": [
+        "genie",
+        "jeanie"
+    ],
+    "jeff": [
+        "geoff"
+    ],
+    "jell": [
+        "gel",
+        "gell"
+    ],
+    "jem": [
+        "gem"
+    ],
+    "jenna": [
+        "gena"
+    ],
+    "jennie": [
+        "jenny"
+    ],
+    "jenny": [
+        "jennie"
+    ],
+    "jenson": [
+        "genson"
+    ],
+    "jerald": [
+        "gerald"
+    ],
+    "jerrie": [
+        "jerry"
+    ],
+    "jerry": [
+        "jerrie"
+    ],
+    "jesse": [
+        "jessie"
+    ],
+    "jessie": [
+        "jesse"
+    ],
+    "jest": [
+        "gest"
+    ],
+    "jibe": [
+        "gibe"
+    ],
+    "jim": [
+        "gym"
+    ],
+    "jin": [
+        "gin"
+    ],
+    "jing": [
+        "ging"
+    ],
+    "jinks": [
+        "jinx",
+        "jynx"
+    ],
+    "jinx": [
+        "jinks",
+        "jynx"
+    ],
+    "jocelin": [
+        "jocelyn"
+    ],
+    "jocelyn": [
+        "jocelin"
+    ],
+    "john": [
+        "jon"
+    ],
+    "johnnie": [
+        "johnny"
+    ],
+    "johnny": [
+        "johnnie"
+    ],
+    "jon": [
+        "john"
+    ],
+    "joon": [
+        "june"
+    ],
+    "joule": [
+        "jule"
+    ],
+    "juan": [
+        "wan"
+    ],
+    "jule": [
+        "joule"
+    ],
+    "julian": [
+        "julien"
+    ],
+    "julien": [
+        "julian"
+    ],
+    "june": [
+        "joon"
+    ],
+    "justen": [
+        "justin"
+    ],
+    "justice": [
+        "justus"
+    ],
+    "justin": [
+        "justen"
+    ],
+    "justus": [
+        "justice"
+    ],
+    "jynx": [
+        "jinks",
+        "jinx"
+    ],
+    "kai": [
+        "chi"
+    ],
+    "kail": [
+        "kale"
+    ],
+    "kale": [
+        "kail"
+    ],
+    "kan": [
+        "can"
+    ],
+    "kana": [
+        "cana"
+    ],
+    "kapp": [
+        "cap"
+    ],
+    "kapur": [
+        "capper"
+    ],
+    "karel": [
+        "caryl"
+    ],
+    "karen": [
+        "charon"
+    ],
+    "kari": [
+        "carrie",
+        "cary",
+        "kerri",
+        "kerry"
+    ],
+    "karl": [
+        "carl"
+    ],
+    "kat": [
+        "cat"
+    ],
+    "kate": [
+        "cate"
+    ],
+    "kathy": [
+        "cathy"
+    ],
+    "katie": [
+        "katy"
+    ],
+    "katy": [
+        "katie"
+    ],
+    "kay": [
+        "cay"
+    ],
+    "kea": [
+        "kee",
+        "key",
+        "quay"
+    ],
+    "keach": [
+        "keech"
+    ],
+    "kee": [
+        "kea",
+        "key",
+        "quay"
+    ],
+    "keech": [
+        "keach"
+    ],
+    "keel": [
+        "kiel"
+    ],
+    "ken": [
+        "kenn"
+    ],
+    "kenn": [
+        "ken"
+    ],
+    "ker": [
+        "cur"
+    ],
+    "kern": [
+        "kirn"
+    ],
+    "kernel": [
+        "colonel"
+    ],
+    "kerri": [
+        "carrie",
+        "cary",
+        "kari",
+        "kerry"
+    ],
+    "kerry": [
+        "carrie",
+        "cary",
+        "kari",
+        "kerri"
+    ],
+    "ketchup": [
+        "catsup"
+    ],
+    "key": [
+        "kea",
+        "kee",
+        "quay"
+    ],
+    "khaki": [
+        "cocky"
+    ],
+    "khan": [
+        "con",
+        "conn",
+        "kon"
+    ],
+    "khat": [
+        "caught",
+        "cot"
+    ],
+    "kiel": [
+        "keel"
+    ],
+    "kirn": [
+        "kern"
+    ],
+    "kite": [
+        "kyte"
+    ],
+    "kittel": [
+        "kittle"
+    ],
+    "kittle": [
+        "kittel"
+    ],
+    "klan": [
+        "clan"
+    ],
+    "kling": [
+        "cling"
+    ],
+    "knab": [
+        "nab"
+    ],
+    "knapper": [
+        "napper"
+    ],
+    "knave": [
+        "nave"
+    ],
+    "knead": [
+        "kneed",
+        "need"
+    ],
+    "knee": [
+        "nee"
+    ],
+    "kneed": [
+        "knead",
+        "need"
+    ],
+    "kneel": [
+        "neal",
+        "neil"
+    ],
+    "knell": [
+        "nell"
+    ],
+    "knew": [
+        "gnu",
+        "new"
+    ],
+    "knick": [
+        "nick"
+    ],
+    "knight": [
+        "night"
+    ],
+    "knit": [
+        "nit"
+    ],
+    "knock": [
+        "nock"
+    ],
+    "knoll": [
+        "noll"
+    ],
+    "knot": [
+        "not"
+    ],
+    "knut": [
+        "nut"
+    ],
+    "knute": [
+        "newt"
+    ],
+    "kohen": [
+        "cohen"
+    ],
+    "kohl": [
+        "coal",
+        "cole",
+        "kol"
+    ],
+    "koko": [
+        "cocco",
+        "cocoa"
+    ],
+    "kol": [
+        "coal",
+        "cole",
+        "kohl"
+    ],
+    "koller": [
+        "collar"
+    ],
+    "kon": [
+        "con",
+        "conn",
+        "khan"
+    ],
+    "kora": [
+        "cora"
+    ],
+    "korona": [
+        "corona"
+    ],
+    "kory": [
+        "corey",
+        "corrie",
+        "cory"
+    ],
+    "koto": [
+        "coto"
+    ],
+    "kraft": [
+        "craft"
+    ],
+    "kras": [
+        "crass"
+    ],
+    "kraut": [
+        "crout"
+    ],
+    "kris": [
+        "chris",
+        "cris",
+        "criss"
+    ],
+    "krome": [
+        "chrome"
+    ],
+    "krona": [
+        "krone"
+    ],
+    "krone": [
+        "krona"
+    ],
+    "kroner": [
+        "kronor"
+    ],
+    "kronor": [
+        "kroner"
+    ],
+    "kroon": [
+        "croon"
+    ],
+    "kuan": [
+        "kwan"
+    ],
+    "kuba": [
+        "cuba"
+    ],
+    "kurd": [
+        "curd"
+    ],
+    "kurt": [
+        "curt"
+    ],
+    "kwan": [
+        "kuan"
+    ],
+    "kyl": [
+        "kyle"
+    ],
+    "kyle": [
+        "kyl"
+    ],
+    "kyte": [
+        "kite"
+    ],
+    "kyu": [
+        "cue",
+        "queue"
+    ],
+    "lac": [
+        "lack",
+        "lak"
+    ],
+    "lache": [
+        "latch"
+    ],
+    "lack": [
+        "lac",
+        "lak"
+    ],
+    "lade": [
+        "laid"
+    ],
+    "lager": [
+        "logger"
+    ],
+    "lai": [
+        "lie",
+        "lye"
+    ],
+    "laid": [
+        "lade"
+    ],
+    "lain": [
+        "laine",
+        "lane",
+        "layne"
+    ],
+    "laine": [
+        "lain",
+        "lane",
+        "layne"
+    ],
+    "lair": [
+        "lehr"
+    ],
+    "lak": [
+        "lac",
+        "lack"
+    ],
+    "lam": [
+        "lamb"
+    ],
+    "lama": [
+        "llama"
+    ],
+    "lamb": [
+        "lam"
+    ],
+    "lambie": [
+        "lamby"
+    ],
+    "lamby": [
+        "lambie"
+    ],
+    "lane": [
+        "lain",
+        "laine",
+        "layne"
+    ],
+    "lao": [
+        "lough"
+    ],
+    "lap": [
+        "lapp"
+    ],
+    "lapp": [
+        "lap"
+    ],
+    "laser": [
+        "lazar"
+    ],
+    "lat": [
+        "lot",
+        "lotte"
+    ],
+    "lata": [
+        "lotta"
+    ],
+    "latch": [
+        "lache"
+    ],
+    "laugher": [
+        "locker"
+    ],
+    "laun": [
+        "lawn"
+    ],
+    "laur": [
+        "lore"
+    ],
+    "laura": [
+        "lora"
+    ],
+    "laurel": [
+        "loral"
+    ],
+    "laurie": [
+        "lawrie",
+        "lori",
+        "lorry",
+        "lory"
+    ],
+    "lawn": [
+        "laun"
+    ],
+    "lawrie": [
+        "laurie",
+        "lori",
+        "lorry",
+        "lory"
+    ],
+    "lay": [
+        "lei",
+        "ley"
+    ],
+    "layland": [
+        "leyland"
+    ],
+    "layne": [
+        "lain",
+        "laine",
+        "lane"
+    ],
+    "lazar": [
+        "laser"
+    ],
+    "lea": [
+        "lee",
+        "leigh"
+    ],
+    "leach": [
+        "leech"
+    ],
+    "lead": [
+        "led"
+    ],
+    "leaf": [
+        "leif",
+        "lief"
+    ],
+    "leak": [
+        "leek"
+    ],
+    "leamer": [
+        "lemur"
+    ],
+    "lean": [
+        "lene",
+        "lien"
+    ],
+    "leap": [
+        "leep"
+    ],
+    "leath": [
+        "leith"
+    ],
+    "lech": [
+        "leck",
+        "lek"
+    ],
+    "leck": [
+        "lech",
+        "lek"
+    ],
+    "led": [
+        "lead"
+    ],
+    "leda": [
+        "lida"
+    ],
+    "ledger": [
+        "leger"
+    ],
+    "lee": [
+        "lea",
+        "leigh"
+    ],
+    "leech": [
+        "leach"
+    ],
+    "leek": [
+        "leak"
+    ],
+    "leep": [
+        "leap"
+    ],
+    "leger": [
+        "ledger"
+    ],
+    "lehr": [
+        "lair"
+    ],
+    "lei": [
+        "lay",
+        "ley"
+    ],
+    "leif": [
+        "leaf",
+        "lief"
+    ],
+    "leigh": [
+        "lea",
+        "lee"
+    ],
+    "leila": [
+        "lila"
+    ],
+    "leith": [
+        "leath"
+    ],
+    "lek": [
+        "lech",
+        "leck"
+    ],
+    "lemur": [
+        "leamer"
+    ],
+    "lena": [
+        "lina"
+    ],
+    "lenard": [
+        "leonard"
+    ],
+    "lene": [
+        "lean",
+        "lien"
+    ],
+    "leonard": [
+        "lenard"
+    ],
+    "les": [
+        "less"
+    ],
+    "less": [
+        "les"
+    ],
+    "lessen": [
+        "lesson"
+    ],
+    "lesser": [
+        "lessor"
+    ],
+    "lesson": [
+        "lessen"
+    ],
+    "lessor": [
+        "lesser"
+    ],
+    "let": [
+        "lett"
+    ],
+    "lett": [
+        "let"
+    ],
+    "leu": [
+        "lew",
+        "lieu",
+        "loo",
+        "lou",
+        "lue"
+    ],
+    "levee": [
+        "levy"
+    ],
+    "levy": [
+        "levee"
+    ],
+    "lew": [
+        "leu",
+        "lieu",
+        "loo",
+        "lou",
+        "lue"
+    ],
+    "lewis": [
+        "louis"
+    ],
+    "ley": [
+        "lay",
+        "lei"
+    ],
+    "leyland": [
+        "layland"
+    ],
+    "lichen": [
+        "liken"
+    ],
+    "licker": [
+        "liquor"
+    ],
+    "lida": [
+        "leda"
+    ],
+    "lide": [
+        "lied"
+    ],
+    "lie": [
+        "lai",
+        "lye"
+    ],
+    "lied": [
+        "lide"
+    ],
+    "lief": [
+        "leaf",
+        "leif"
+    ],
+    "lien": [
+        "lean",
+        "lene"
+    ],
+    "lieu": [
+        "leu",
+        "lew",
+        "loo",
+        "lou",
+        "lue"
+    ],
+    "light": [
+        "lite"
+    ],
+    "liken": [
+        "lichen"
+    ],
+    "lila": [
+        "leila"
+    ],
+    "lim": [
+        "limb"
+    ],
+    "limb": [
+        "lim"
+    ],
+    "lin": [
+        "linn",
+        "linne",
+        "lynn",
+        "lynne"
+    ],
+    "lina": [
+        "lena"
+    ],
+    "linch": [
+        "lynch"
+    ],
+    "linden": [
+        "lyndon"
+    ],
+    "lindsay": [
+        "lindsey"
+    ],
+    "lindsey": [
+        "lindsay"
+    ],
+    "links": [
+        "lynx"
+    ],
+    "linn": [
+        "lin",
+        "linne",
+        "lynn",
+        "lynne"
+    ],
+    "linne": [
+        "lin",
+        "linn",
+        "lynn",
+        "lynne"
+    ],
+    "lion": [
+        "lyon"
+    ],
+    "liquor": [
+        "licker"
+    ],
+    "lira": [
+        "lire"
+    ],
+    "lire": [
+        "lira"
+    ],
+    "lis": [
+        "liss"
+    ],
+    "liss": [
+        "lis"
+    ],
+    "lite": [
+        "light"
+    ],
+    "llama": [
+        "lama"
+    ],
+    "lloyd": [
+        "loyd"
+    ],
+    "load": [
+        "lode"
+    ],
+    "loader": [
+        "lowder"
+    ],
+    "loan": [
+        "lone"
+    ],
+    "loch": [
+        "lock"
+    ],
+    "lock": [
+        "loch"
+    ],
+    "locker": [
+        "laugher"
+    ],
+    "lode": [
+        "load"
+    ],
+    "loess": [
+        "lois"
+    ],
+    "logger": [
+        "lager"
+    ],
+    "lois": [
+        "loess"
+    ],
+    "lone": [
+        "loan"
+    ],
+    "loo": [
+        "leu",
+        "lew",
+        "lieu",
+        "lou",
+        "lue"
+    ],
+    "looney": [
+        "loony"
+    ],
+    "loony": [
+        "looney"
+    ],
+    "loop": [
+        "loup",
+        "loupe",
+        "lupe"
+    ],
+    "loose": [
+        "luce"
+    ],
+    "loot": [
+        "lute"
+    ],
+    "looter": [
+        "luter"
+    ],
+    "lora": [
+        "laura"
+    ],
+    "loral": [
+        "laurel"
+    ],
+    "lore": [
+        "laur"
+    ],
+    "lori": [
+        "laurie",
+        "lawrie",
+        "lorry",
+        "lory"
+    ],
+    "lorry": [
+        "laurie",
+        "lawrie",
+        "lori",
+        "lory"
+    ],
+    "lory": [
+        "laurie",
+        "lawrie",
+        "lori",
+        "lorry"
+    ],
+    "lot": [
+        "lat",
+        "lotte"
+    ],
+    "lotta": [
+        "lata"
+    ],
+    "lotte": [
+        "lat",
+        "lot"
+    ],
+    "lou": [
+        "leu",
+        "lew",
+        "lieu",
+        "loo",
+        "lue"
+    ],
+    "lough": [
+        "lao"
+    ],
+    "louis": [
+        "lewis"
+    ],
+    "loup": [
+        "loop",
+        "loupe",
+        "lupe"
+    ],
+    "loupe": [
+        "loop",
+        "loup",
+        "lupe"
+    ],
+    "lowder": [
+        "loader"
+    ],
+    "loyd": [
+        "lloyd"
+    ],
+    "luc": [
+        "luke"
+    ],
+    "luce": [
+        "loose"
+    ],
+    "luckie": [
+        "lucky"
+    ],
+    "lucky": [
+        "luckie"
+    ],
+    "lue": [
+        "leu",
+        "lew",
+        "lieu",
+        "loo",
+        "lou"
+    ],
+    "luke": [
+        "luc"
+    ],
+    "lupe": [
+        "loop",
+        "loup",
+        "loupe"
+    ],
+    "lute": [
+        "loot"
+    ],
+    "luter": [
+        "looter"
+    ],
+    "lye": [
+        "lai",
+        "lie"
+    ],
+    "lynch": [
+        "linch"
+    ],
+    "lyndon": [
+        "linden"
+    ],
+    "lynn": [
+        "lin",
+        "linn",
+        "linne",
+        "lynne"
+    ],
+    "lynne": [
+        "lin",
+        "linn",
+        "linne",
+        "lynn"
+    ],
+    "lynx": [
+        "links"
+    ],
+    "lyon": [
+        "lion"
+    ],
+    "maam": [
+        "mum"
+    ],
+    "mac": [
+        "mack"
+    ],
+    "machi": [
+        "maki"
+    ],
+    "mack": [
+        "mac"
+    ],
+    "madam": [
+        "madame"
+    ],
+    "madame": [
+        "madam"
+    ],
+    "made": [
+        "maid"
+    ],
+    "mae": [
+        "may"
+    ],
+    "magnate": [
+        "magnet"
+    ],
+    "magnet": [
+        "magnate"
+    ],
+    "maia": [
+        "maya"
+    ],
+    "maid": [
+        "made"
+    ],
+    "maida": [
+        "mayda"
+    ],
+    "mail": [
+        "male"
+    ],
+    "main": [
+        "maine",
+        "mane"
+    ],
+    "maine": [
+        "main",
+        "mane"
+    ],
+    "mains": [
+        "manes"
+    ],
+    "maire": [
+        "mare",
+        "mer"
+    ],
+    "maize": [
+        "maze"
+    ],
+    "maki": [
+        "machi"
+    ],
+    "male": [
+        "mail"
+    ],
+    "mali": [
+        "mollie",
+        "molly"
+    ],
+    "mall": [
+        "maul"
+    ],
+    "malm": [
+        "mam"
+    ],
+    "mam": [
+        "malm"
+    ],
+    "man": [
+        "mann"
+    ],
+    "mane": [
+        "main",
+        "maine"
+    ],
+    "manes": [
+        "mains"
+    ],
+    "manila": [
+        "manilla"
+    ],
+    "manilla": [
+        "manila"
+    ],
+    "mann": [
+        "man"
+    ],
+    "manner": [
+        "manor"
+    ],
+    "mannie": [
+        "manny"
+    ],
+    "manny": [
+        "mannie"
+    ],
+    "manor": [
+        "manner"
+    ],
+    "mantel": [
+        "mantle"
+    ],
+    "mantle": [
+        "mantel"
+    ],
+    "marc": [
+        "mark",
+        "marque"
+    ],
+    "marcia": [
+        "marsha"
+    ],
+    "marco": [
+        "marko"
+    ],
+    "mare": [
+        "maire",
+        "mer"
+    ],
+    "marian": [
+        "marion"
+    ],
+    "marion": [
+        "marian"
+    ],
+    "mark": [
+        "marc",
+        "marque"
+    ],
+    "marko": [
+        "marco"
+    ],
+    "maro": [
+        "morrow"
+    ],
+    "marque": [
+        "marc",
+        "mark"
+    ],
+    "marrow": [
+        "mero",
+        "merrow"
+    ],
+    "marry": [
+        "mary",
+        "merry"
+    ],
+    "marsha": [
+        "marcia"
+    ],
+    "marshal": [
+        "martial"
+    ],
+    "marten": [
+        "martin"
+    ],
+    "martial": [
+        "marshal"
+    ],
+    "martin": [
+        "marten"
+    ],
+    "mary": [
+        "marry",
+        "merry"
+    ],
+    "mass": [
+        "masse"
+    ],
+    "masse": [
+        "mass"
+    ],
+    "mat": [
+        "matt",
+        "matte"
+    ],
+    "matt": [
+        "mat",
+        "matte"
+    ],
+    "matte": [
+        "mat",
+        "matt"
+    ],
+    "mau": [
+        "moe",
+        "mow"
+    ],
+    "maud": [
+        "mod"
+    ],
+    "maul": [
+        "mall"
+    ],
+    "maureen": [
+        "moreen"
+    ],
+    "may": [
+        "mae"
+    ],
+    "maya": [
+        "maia"
+    ],
+    "mayda": [
+        "maida"
+    ],
+    "mayer": [
+        "mayor"
+    ],
+    "mayor": [
+        "mayer"
+    ],
+    "maze": [
+        "maize"
+    ],
+    "meal": [
+        "mele"
+    ],
+    "mean": [
+        "mein",
+        "mien"
+    ],
+    "meat": [
+        "meet",
+        "mete"
+    ],
+    "medal": [
+        "meddle"
+    ],
+    "meddle": [
+        "medal"
+    ],
+    "meece": [
+        "meese"
+    ],
+    "meese": [
+        "meece"
+    ],
+    "meet": [
+        "meat",
+        "mete"
+    ],
+    "mein": [
+        "mean",
+        "mien"
+    ],
+    "mel": [
+        "mell"
+    ],
+    "mele": [
+        "meal"
+    ],
+    "mell": [
+        "mel"
+    ],
+    "mellon": [
+        "melon"
+    ],
+    "melon": [
+        "mellon"
+    ],
+    "mend": [
+        "mende"
+    ],
+    "mende": [
+        "mend"
+    ],
+    "mer": [
+        "maire",
+        "mare"
+    ],
+    "mere": [
+        "mir"
+    ],
+    "merk": [
+        "murk"
+    ],
+    "merl": [
+        "merle"
+    ],
+    "merle": [
+        "merl"
+    ],
+    "mero": [
+        "marrow",
+        "merrow"
+    ],
+    "merrow": [
+        "marrow",
+        "mero"
+    ],
+    "merry": [
+        "marry",
+        "mary"
+    ],
+    "metal": [
+        "mettle"
+    ],
+    "mete": [
+        "meat",
+        "meet"
+    ],
+    "mettle": [
+        "metal"
+    ],
+    "meuse": [
+        "muse"
+    ],
+    "mica": [
+        "micah"
+    ],
+    "micah": [
+        "mica"
+    ],
+    "michael": [
+        "micheal"
+    ],
+    "micheal": [
+        "michael"
+    ],
+    "mickey": [
+        "micky"
+    ],
+    "micky": [
+        "mickey"
+    ],
+    "mien": [
+        "mean",
+        "mein"
+    ],
+    "might": [
+        "mite"
+    ],
+    "mil": [
+        "mill",
+        "mille"
+    ],
+    "mill": [
+        "mil",
+        "mille"
+    ],
+    "mille": [
+        "mil",
+        "mill"
+    ],
+    "millie": [
+        "milly"
+    ],
+    "milly": [
+        "millie"
+    ],
+    "minar": [
+        "miner",
+        "minor"
+    ],
+    "miner": [
+        "minar",
+        "minor"
+    ],
+    "minnie": [
+        "minny"
+    ],
+    "minny": [
+        "minnie"
+    ],
+    "minor": [
+        "minar",
+        "miner"
+    ],
+    "minot": [
+        "minute"
+    ],
+    "minute": [
+        "minot"
+    ],
+    "mir": [
+        "mere"
+    ],
+    "missal": [
+        "missel",
+        "missile"
+    ],
+    "missel": [
+        "missal",
+        "missile"
+    ],
+    "missile": [
+        "missal",
+        "missel"
+    ],
+    "mistic": [
+        "mystic"
+    ],
+    "mite": [
+        "might"
+    ],
+    "moan": [
+        "mon",
+        "mone"
+    ],
+    "moat": [
+        "mote"
+    ],
+    "mod": [
+        "maud"
+    ],
+    "moe": [
+        "mau",
+        "mow"
+    ],
+    "mohr": [
+        "mor",
+        "more"
+    ],
+    "mold": [
+        "mould"
+    ],
+    "moll": [
+        "molle"
+    ],
+    "molle": [
+        "moll"
+    ],
+    "mollie": [
+        "mali",
+        "molly"
+    ],
+    "molly": [
+        "mali",
+        "mollie"
+    ],
+    "mon": [
+        "moan",
+        "mone"
+    ],
+    "mone": [
+        "moan",
+        "mon"
+    ],
+    "moor": [
+        "moore"
+    ],
+    "moore": [
+        "moor"
+    ],
+    "moose": [
+        "mousse"
+    ],
+    "mor": [
+        "mohr",
+        "more"
+    ],
+    "more": [
+        "mohr",
+        "mor"
+    ],
+    "moreen": [
+        "maureen"
+    ],
+    "morgan": [
+        "morgen"
+    ],
+    "morgen": [
+        "morgan"
+    ],
+    "morn": [
+        "mourn"
+    ],
+    "morrow": [
+        "maro"
+    ],
+    "mote": [
+        "moat"
+    ],
+    "mott": [
+        "motte"
+    ],
+    "motte": [
+        "mott"
+    ],
+    "mould": [
+        "mold"
+    ],
+    "mourn": [
+        "morn"
+    ],
+    "mousse": [
+        "moose"
+    ],
+    "mow": [
+        "mau",
+        "moe"
+    ],
+    "much": [
+        "mutch"
+    ],
+    "mucous": [
+        "mucus"
+    ],
+    "mucus": [
+        "mucous"
+    ],
+    "mud": [
+        "mudd"
+    ],
+    "mudd": [
+        "mud"
+    ],
+    "mum": [
+        "maam"
+    ],
+    "murk": [
+        "merk"
+    ],
+    "murray": [
+        "murrey"
+    ],
+    "murrey": [
+        "murray"
+    ],
+    "muscle": [
+        "mussel"
+    ],
+    "muse": [
+        "meuse"
+    ],
+    "muskie": [
+        "musky"
+    ],
+    "musky": [
+        "muskie"
+    ],
+    "mussel": [
+        "muscle"
+    ],
+    "mutch": [
+        "much"
+    ],
+    "mystic": [
+        "mistic"
+    ],
+    "nab": [
+        "knab"
+    ],
+    "napper": [
+        "knapper"
+    ],
+    "nary": [
+        "neri"
+    ],
+    "nash": [
+        "gnash"
+    ],
+    "nat": [
+        "gnat"
+    ],
+    "natalie": [
+        "nattily"
+    ],
+    "nattily": [
+        "natalie"
+    ],
+    "naval": [
+        "navel"
+    ],
+    "nave": [
+        "knave"
+    ],
+    "navel": [
+        "naval"
+    ],
+    "neal": [
+        "kneel",
+        "neil"
+    ],
+    "near": [
+        "neer"
+    ],
+    "neat": [
+        "neet"
+    ],
+    "nee": [
+        "knee"
+    ],
+    "need": [
+        "knead",
+        "kneed"
+    ],
+    "neer": [
+        "near"
+    ],
+    "neet": [
+        "neat"
+    ],
+    "neil": [
+        "kneel",
+        "neal"
+    ],
+    "nell": [
+        "knell"
+    ],
+    "nellie": [
+        "nelly"
+    ],
+    "nelly": [
+        "nellie"
+    ],
+    "neri": [
+        "nary"
+    ],
+    "nester": [
+        "nestor"
+    ],
+    "nestor": [
+        "nester"
+    ],
+    "nettie": [
+        "netty"
+    ],
+    "netty": [
+        "nettie"
+    ],
+    "new": [
+        "gnu",
+        "knew"
+    ],
+    "newt": [
+        "knute"
+    ],
+    "ngai": [
+        "guy"
+    ],
+    "niall": [
+        "nile"
+    ],
+    "nice": [
+        "gneiss"
+    ],
+    "nick": [
+        "knick"
+    ],
+    "nickel": [
+        "nickle",
+        "nicol"
+    ],
+    "nickey": [
+        "nicky"
+    ],
+    "nickle": [
+        "nickel",
+        "nicol"
+    ],
+    "nicky": [
+        "nickey"
+    ],
+    "nicol": [
+        "nickel",
+        "nickle"
+    ],
+    "nigh": [
+        "nye"
+    ],
+    "night": [
+        "knight"
+    ],
+    "nile": [
+        "niall"
+    ],
+    "nit": [
+        "knit"
+    ],
+    "noa": [
+        "noah"
+    ],
+    "noah": [
+        "noa"
+    ],
+    "noam": [
+        "gnome",
+        "nome"
+    ],
+    "nock": [
+        "knock"
+    ],
+    "noll": [
+        "knoll"
+    ],
+    "nome": [
+        "gnome",
+        "noam"
+    ],
+    "none": [
+        "nun"
+    ],
+    "noose": [
+        "nous"
+    ],
+    "nora": [
+        "norah"
+    ],
+    "norah": [
+        "nora"
+    ],
+    "not": [
+        "knot"
+    ],
+    "nous": [
+        "noose"
+    ],
+    "nun": [
+        "none"
+    ],
+    "nut": [
+        "knut"
+    ],
+    "nye": [
+        "nigh"
+    ],
+    "oaky": [
+        "oki",
+        "okie"
+    ],
+    "oar": [
+        "ore"
+    ],
+    "oki": [
+        "oaky",
+        "okie"
+    ],
+    "okie": [
+        "oaky",
+        "oki"
+    ],
+    "one": [
+        "won"
+    ],
+    "ora": [
+        "aura"
+    ],
+    "oral": [
+        "aural"
+    ],
+    "ore": [
+        "oar"
+    ],
+    "oscar": [
+        "oskar"
+    ],
+    "oskar": [
+        "oscar"
+    ],
+    "osmond": [
+        "osmund"
+    ],
+    "osmund": [
+        "osmond"
+    ],
+    "our": [
+        "hour"
+    ],
+    "overdo": [
+        "overdue"
+    ],
+    "overdue": [
+        "overdo"
+    ],
+    "paar": [
+        "par",
+        "parr"
+    ],
+    "pac": [
+        "pack",
+        "paque"
+    ],
+    "paced": [
+        "paste"
+    ],
+    "pack": [
+        "pac",
+        "paque"
+    ],
+    "paean": [
+        "peon"
+    ],
+    "pail": [
+        "pale"
+    ],
+    "pain": [
+        "pane"
+    ],
+    "pair": [
+        "pare",
+        "pear"
+    ],
+    "palace": [
+        "pallas"
+    ],
+    "palate": [
+        "palette",
+        "pallet"
+    ],
+    "pale": [
+        "pail"
+    ],
+    "palette": [
+        "palate",
+        "pallet"
+    ],
+    "pallas": [
+        "palace"
+    ],
+    "pallet": [
+        "palate",
+        "palette"
+    ],
+    "pane": [
+        "pain"
+    ],
+    "papa": [
+        "poppa"
+    ],
+    "paque": [
+        "pac",
+        "pack"
+    ],
+    "par": [
+        "paar",
+        "parr"
+    ],
+    "pare": [
+        "pair",
+        "pear"
+    ],
+    "parr": [
+        "paar",
+        "par"
+    ],
+    "parry": [
+        "perry"
+    ],
+    "paste": [
+        "paced"
+    ],
+    "paster": [
+        "pastor"
+    ],
+    "pastor": [
+        "paster"
+    ],
+    "paul": [
+        "pol"
+    ],
+    "pea": [
+        "pee"
+    ],
+    "peace": [
+        "piece"
+    ],
+    "peak": [
+        "peek",
+        "pique"
+    ],
+    "peal": [
+        "peel",
+        "peele"
+    ],
+    "pear": [
+        "pair",
+        "pare"
+    ],
+    "pearl": [
+        "perle"
+    ],
+    "peart": [
+        "pert"
+    ],
+    "peat": [
+        "pete"
+    ],
+    "peavey": [
+        "peavy"
+    ],
+    "peavy": [
+        "peavey"
+    ],
+    "pech": [
+        "peck"
+    ],
+    "peck": [
+        "pech"
+    ],
+    "pedal": [
+        "peddle"
+    ],
+    "peddle": [
+        "pedal"
+    ],
+    "pee": [
+        "pea"
+    ],
+    "peek": [
+        "peak",
+        "pique"
+    ],
+    "peel": [
+        "peal",
+        "peele"
+    ],
+    "peele": [
+        "peal",
+        "peel"
+    ],
+    "peer": [
+        "pier"
+    ],
+    "peon": [
+        "paean"
+    ],
+    "per": [
+        "pur",
+        "purr"
+    ],
+    "perle": [
+        "pearl"
+    ],
+    "perry": [
+        "parry"
+    ],
+    "perse": [
+        "purse"
+    ],
+    "pert": [
+        "peart"
+    ],
+    "pete": [
+        "peat"
+    ],
+    "peter": [
+        "pieter"
+    ],
+    "petit": [
+        "petty"
+    ],
+    "petr": [
+        "petre",
+        "petter"
+    ],
+    "petre": [
+        "petr",
+        "petter"
+    ],
+    "petter": [
+        "petr",
+        "petre"
+    ],
+    "petty": [
+        "petit"
+    ],
+    "pew": [
+        "pugh"
+    ],
+    "pfund": [
+        "fund"
+    ],
+    "pharaoh": [
+        "faro"
+    ],
+    "phase": [
+        "faze"
+    ],
+    "phebe": [
+        "phoebe"
+    ],
+    "phew": [
+        "few"
+    ],
+    "phi": [
+        "fae"
+    ],
+    "phil": [
+        "fill"
+    ],
+    "philip": [
+        "fillip"
+    ],
+    "phillis": [
+        "phyllis"
+    ],
+    "phoebe": [
+        "phebe"
+    ],
+    "phrase": [
+        "frase",
+        "fraze"
+    ],
+    "phu": [
+        "foo"
+    ],
+    "phyle": [
+        "file"
+    ],
+    "phyllis": [
+        "phillis"
+    ],
+    "pic": [
+        "pick",
+        "pik"
+    ],
+    "pick": [
+        "pic",
+        "pik"
+    ],
+    "piece": [
+        "peace"
+    ],
+    "pier": [
+        "peer"
+    ],
+    "pieter": [
+        "peter"
+    ],
+    "pigmy": [
+        "pygmy"
+    ],
+    "pik": [
+        "pic",
+        "pick"
+    ],
+    "pike": [
+        "pyke"
+    ],
+    "pinkie": [
+        "pinky"
+    ],
+    "pinky": [
+        "pinkie"
+    ],
+    "pique": [
+        "peak",
+        "peek"
+    ],
+    "pistil": [
+        "pistol"
+    ],
+    "pistol": [
+        "pistil"
+    ],
+    "plack": [
+        "plaque"
+    ],
+    "plain": [
+        "plane"
+    ],
+    "plainer": [
+        "planar",
+        "planer"
+    ],
+    "plait": [
+        "plate"
+    ],
+    "plaited": [
+        "plated"
+    ],
+    "planar": [
+        "plainer",
+        "planer"
+    ],
+    "plane": [
+        "plain"
+    ],
+    "planer": [
+        "plainer",
+        "planar"
+    ],
+    "plaque": [
+        "plack"
+    ],
+    "plate": [
+        "plait"
+    ],
+    "plated": [
+        "plaited"
+    ],
+    "platen": [
+        "platten"
+    ],
+    "platten": [
+        "platen"
+    ],
+    "plough": [
+        "plow"
+    ],
+    "plow": [
+        "plough"
+    ],
+    "plum": [
+        "plumb"
+    ],
+    "plumb": [
+        "plum"
+    ],
+    "plumber": [
+        "plummer"
+    ],
+    "plummer": [
+        "plumber"
+    ],
+    "poe": [
+        "poh"
+    ],
+    "poh": [
+        "poe"
+    ],
+    "poke": [
+        "polk"
+    ],
+    "pokey": [
+        "poky"
+    ],
+    "poky": [
+        "pokey"
+    ],
+    "pol": [
+        "paul"
+    ],
+    "pole": [
+        "poll"
+    ],
+    "polk": [
+        "poke"
+    ],
+    "poll": [
+        "pole"
+    ],
+    "pollack": [
+        "pollock"
+    ],
+    "pollan": [
+        "pollen"
+    ],
+    "pollen": [
+        "pollan"
+    ],
+    "pollock": [
+        "pollack"
+    ],
+    "polly": [
+        "poly"
+    ],
+    "poly": [
+        "polly"
+    ],
+    "poppa": [
+        "papa"
+    ],
+    "pore": [
+        "porr",
+        "pour"
+    ],
+    "poring": [
+        "pouring"
+    ],
+    "porr": [
+        "pore",
+        "pour"
+    ],
+    "pot": [
+        "pott"
+    ],
+    "pott": [
+        "pot"
+    ],
+    "pour": [
+        "pore",
+        "porr"
+    ],
+    "pouring": [
+        "poring"
+    ],
+    "pray": [
+        "prey"
+    ],
+    "prey": [
+        "pray"
+    ],
+    "pride": [
+        "pried"
+    ],
+    "pried": [
+        "pride"
+    ],
+    "prier": [
+        "prior",
+        "pryer"
+    ],
+    "prior": [
+        "prier",
+        "pryer"
+    ],
+    "profit": [
+        "prophet"
+    ],
+    "proper": [
+        "propper"
+    ],
+    "prophet": [
+        "profit"
+    ],
+    "propper": [
+        "proper"
+    ],
+    "pryer": [
+        "prier",
+        "prior"
+    ],
+    "psalter": [
+        "salter",
+        "saulter"
+    ],
+    "psi": [
+        "sai",
+        "sigh"
+    ],
+    "pugh": [
+        "pew"
+    ],
+    "pur": [
+        "per",
+        "purr"
+    ],
+    "purr": [
+        "per",
+        "pur"
+    ],
+    "purse": [
+        "perse"
+    ],
+    "pygmy": [
+        "pigmy"
+    ],
+    "pyke": [
+        "pike"
+    ],
+    "quail": [
+        "quale"
+    ],
+    "quale": [
+        "quail"
+    ],
+    "quay": [
+        "kea",
+        "kee",
+        "key"
+    ],
+    "queue": [
+        "cue",
+        "kyu"
+    ],
+    "raad": [
+        "rod",
+        "rodd"
+    ],
+    "race": [
+        "rais"
+    ],
+    "rack": [
+        "wrack"
+    ],
+    "rafael": [
+        "raphael"
+    ],
+    "rah": [
+        "raw"
+    ],
+    "raid": [
+        "rayed"
+    ],
+    "rain": [
+        "reign",
+        "rein"
+    ],
+    "rais": [
+        "race"
+    ],
+    "raise": [
+        "rase",
+        "raze"
+    ],
+    "raiser": [
+        "raser",
+        "razor"
+    ],
+    "ran": [
+        "rann"
+    ],
+    "rancor": [
+        "ranker"
+    ],
+    "randal": [
+        "randall",
+        "randle"
+    ],
+    "randall": [
+        "randal",
+        "randle"
+    ],
+    "randle": [
+        "randal",
+        "randall"
+    ],
+    "ranker": [
+        "rancor"
+    ],
+    "rann": [
+        "ran"
+    ],
+    "rap": [
+        "rappe",
+        "wrap"
+    ],
+    "raphael": [
+        "rafael"
+    ],
+    "rappe": [
+        "rap",
+        "wrap"
+    ],
+    "rapper": [
+        "wrapper"
+    ],
+    "rapt": [
+        "wrapped"
+    ],
+    "rase": [
+        "raise",
+        "raze"
+    ],
+    "raser": [
+        "raiser",
+        "razor"
+    ],
+    "rath": [
+        "wrath"
+    ],
+    "raw": [
+        "rah"
+    ],
+    "ray": [
+        "rea"
+    ],
+    "rayed": [
+        "raid"
+    ],
+    "raze": [
+        "raise",
+        "rase"
+    ],
+    "razor": [
+        "raiser",
+        "raser"
+    ],
+    "rea": [
+        "ray"
+    ],
+    "read": [
+        "red",
+        "redd"
+    ],
+    "reader": [
+        "reeder"
+    ],
+    "reading": [
+        "redding"
+    ],
+    "ready": [
+        "reddy"
+    ],
+    "real": [
+        "reel"
+    ],
+    "ream": [
+        "reim"
+    ],
+    "reave": [
+        "reeve"
+    ],
+    "reck": [
+        "wreck"
+    ],
+    "red": [
+        "read",
+        "redd"
+    ],
+    "redd": [
+        "read",
+        "red"
+    ],
+    "redding": [
+        "reading"
+    ],
+    "reddy": [
+        "ready"
+    ],
+    "reed": [
+        "reid"
+    ],
+    "reeder": [
+        "reader"
+    ],
+    "reef": [
+        "reif"
+    ],
+    "reek": [
+        "wreak"
+    ],
+    "reel": [
+        "real"
+    ],
+    "rees": [
+        "reis"
+    ],
+    "reeve": [
+        "reave"
+    ],
+    "reid": [
+        "reed"
+    ],
+    "reif": [
+        "reef"
+    ],
+    "reign": [
+        "rain",
+        "rein"
+    ],
+    "reim": [
+        "ream"
+    ],
+    "rein": [
+        "rain",
+        "reign"
+    ],
+    "reis": [
+        "rees"
+    ],
+    "reit": [
+        "right",
+        "rite",
+        "wright",
+        "write"
+    ],
+    "reiter": [
+        "righter",
+        "writer"
+    ],
+    "renne": [
+        "wren"
+    ],
+    "rep": [
+        "repp"
+    ],
+    "repp": [
+        "rep"
+    ],
+    "rest": [
+        "wrest"
+    ],
+    "rhea": [
+        "ria"
+    ],
+    "rhein": [
+        "rhine",
+        "rine"
+    ],
+    "rhine": [
+        "rhein",
+        "rine"
+    ],
+    "rho": [
+        "roe",
+        "row"
+    ],
+    "rhymer": [
+        "rimer"
+    ],
+    "ria": [
+        "rhea"
+    ],
+    "ric": [
+        "rick"
+    ],
+    "rick": [
+        "ric"
+    ],
+    "rickey": [
+        "ricky"
+    ],
+    "ricky": [
+        "rickey"
+    ],
+    "rider": [
+        "ryder"
+    ],
+    "right": [
+        "reit",
+        "rite",
+        "wright",
+        "write"
+    ],
+    "righter": [
+        "reiter",
+        "writer"
+    ],
+    "riley": [
+        "wryly"
+    ],
+    "rimer": [
+        "rhymer"
+    ],
+    "rine": [
+        "rhein",
+        "rhine"
+    ],
+    "ring": [
+        "ringe",
+        "wring"
+    ],
+    "ringe": [
+        "ring",
+        "wring"
+    ],
+    "ringer": [
+        "wringer"
+    ],
+    "rist": [
+        "wrist"
+    ],
+    "rite": [
+        "reit",
+        "right",
+        "wright",
+        "write"
+    ],
+    "road": [
+        "rode",
+        "roed",
+        "rowed"
+    ],
+    "roam": [
+        "rome"
+    ],
+    "roan": [
+        "rone"
+    ],
+    "roc": [
+        "rock"
+    ],
+    "rock": [
+        "roc"
+    ],
+    "rod": [
+        "raad",
+        "rodd"
+    ],
+    "rodd": [
+        "raad",
+        "rod"
+    ],
+    "rode": [
+        "road",
+        "roed",
+        "rowed"
+    ],
+    "rodger": [
+        "roger"
+    ],
+    "roe": [
+        "rho",
+        "row"
+    ],
+    "roed": [
+        "road",
+        "rode",
+        "rowed"
+    ],
+    "roger": [
+        "rodger"
+    ],
+    "rohan": [
+        "rowan",
+        "rowen"
+    ],
+    "roi": [
+        "roy"
+    ],
+    "roland": [
+        "rowland"
+    ],
+    "role": [
+        "roll"
+    ],
+    "rolf": [
+        "rolfe"
+    ],
+    "rolfe": [
+        "rolf"
+    ],
+    "roll": [
+        "role"
+    ],
+    "romain": [
+        "romaine"
+    ],
+    "romaine": [
+        "romain"
+    ],
+    "rome": [
+        "roam"
+    ],
+    "rone": [
+        "roan"
+    ],
+    "rong": [
+        "wrong"
+    ],
+    "rood": [
+        "rude"
+    ],
+    "root": [
+        "route"
+    ],
+    "rooter": [
+        "router"
+    ],
+    "rote": [
+        "wrote"
+    ],
+    "rough": [
+        "ruff"
+    ],
+    "rougher": [
+        "ruffer"
+    ],
+    "route": [
+        "root"
+    ],
+    "router": [
+        "rooter"
+    ],
+    "row": [
+        "rho",
+        "roe"
+    ],
+    "rowan": [
+        "rohan",
+        "rowen"
+    ],
+    "rowed": [
+        "road",
+        "rode",
+        "roed"
+    ],
+    "rowen": [
+        "rohan",
+        "rowan"
+    ],
+    "rowland": [
+        "roland"
+    ],
+    "roxie": [
+        "roxy"
+    ],
+    "roxy": [
+        "roxie"
+    ],
+    "roy": [
+        "roi"
+    ],
+    "rud": [
+        "rudd"
+    ],
+    "rudd": [
+        "rud"
+    ],
+    "rude": [
+        "rood"
+    ],
+    "ruff": [
+        "rough"
+    ],
+    "ruffer": [
+        "rougher"
+    ],
+    "ruman": [
+        "rumen"
+    ],
+    "rumen": [
+        "ruman"
+    ],
+    "rung": [
+        "wrung"
+    ],
+    "rus": [
+        "russ"
+    ],
+    "russ": [
+        "rus"
+    ],
+    "russel": [
+        "russell",
+        "rustle"
+    ],
+    "russell": [
+        "russel",
+        "rustle"
+    ],
+    "rustle": [
+        "russel",
+        "russell"
+    ],
+    "ryder": [
+        "rider"
+    ],
+    "rye": [
+        "wry"
+    ],
+    "saad": [
+        "sod"
+    ],
+    "saber": [
+        "sabir"
+    ],
+    "sabir": [
+        "saber"
+    ],
+    "sac": [
+        "sack",
+        "sak"
+    ],
+    "sack": [
+        "sac",
+        "sak"
+    ],
+    "sai": [
+        "psi",
+        "sigh"
+    ],
+    "sail": [
+        "sale",
+        "salle"
+    ],
+    "sailer": [
+        "sailor"
+    ],
+    "sailor": [
+        "sailer"
+    ],
+    "sain": [
+        "sane"
+    ],
+    "sak": [
+        "sac",
+        "sack"
+    ],
+    "sale": [
+        "sail",
+        "salle"
+    ],
+    "salina": [
+        "selena",
+        "selina"
+    ],
+    "saline": [
+        "selene"
+    ],
+    "salle": [
+        "sail",
+        "sale"
+    ],
+    "sallee": [
+        "sally"
+    ],
+    "sally": [
+        "sallee"
+    ],
+    "salt": [
+        "sault"
+    ],
+    "salter": [
+        "psalter",
+        "saulter"
+    ],
+    "sane": [
+        "sain"
+    ],
+    "sao": [
+        "sow"
+    ],
+    "sara": [
+        "sarah",
+        "serra"
+    ],
+    "sarah": [
+        "sara",
+        "serra"
+    ],
+    "sari": [
+        "sorry"
+    ],
+    "sauce": [
+        "soss"
+    ],
+    "sault": [
+        "salt"
+    ],
+    "saulter": [
+        "psalter",
+        "salter"
+    ],
+    "saur": [
+        "soar",
+        "sore"
+    ],
+    "saver": [
+        "savor"
+    ],
+    "savery": [
+        "savory"
+    ],
+    "savor": [
+        "saver"
+    ],
+    "savory": [
+        "savery"
+    ],
+    "sax": [
+        "saxe"
+    ],
+    "saxe": [
+        "sax"
+    ],
+    "scaff": [
+        "skaff"
+    ],
+    "scary": [
+        "skerry"
+    ],
+    "scene": [
+        "seen"
+    ],
+    "scent": [
+        "cent",
+        "sent"
+    ],
+    "schone": [
+        "shone",
+        "shown"
+    ],
+    "schuh": [
+        "shoe",
+        "shoo",
+        "shu"
+    ],
+    "scilla": [
+        "scylla"
+    ],
+    "scot": [
+        "scott"
+    ],
+    "scott": [
+        "scot"
+    ],
+    "scottie": [
+        "scotty"
+    ],
+    "scotty": [
+        "scottie"
+    ],
+    "scull": [
+        "skull"
+    ],
+    "scylla": [
+        "scilla"
+    ],
+    "sea": [
+        "see",
+        "sie"
+    ],
+    "seal": [
+        "seel"
+    ],
+    "sealing": [
+        "ceiling"
+    ],
+    "seam": [
+        "seem"
+    ],
+    "seaman": [
+        "semen"
+    ],
+    "sean": [
+        "shawn"
+    ],
+    "sear": [
+        "sere"
+    ],
+    "sec": [
+        "seck"
+    ],
+    "seck": [
+        "sec"
+    ],
+    "see": [
+        "sea",
+        "sie"
+    ],
+    "seed": [
+        "cede"
+    ],
+    "seek": [
+        "sikh"
+    ],
+    "seel": [
+        "seal"
+    ],
+    "seem": [
+        "seam"
+    ],
+    "seen": [
+        "scene"
+    ],
+    "seid": [
+        "side",
+        "syed"
+    ],
+    "seidel": [
+        "sidle"
+    ],
+    "selena": [
+        "salina",
+        "selina"
+    ],
+    "selene": [
+        "saline"
+    ],
+    "selina": [
+        "salina",
+        "selena"
+    ],
+    "sell": [
+        "cell"
+    ],
+    "sella": [
+        "cella"
+    ],
+    "seller": [
+        "cellar"
+    ],
+    "semen": [
+        "seaman"
+    ],
+    "senate": [
+        "sennet"
+    ],
+    "sennet": [
+        "senate"
+    ],
+    "sensor": [
+        "censer",
+        "censor"
+    ],
+    "sent": [
+        "cent",
+        "scent"
+    ],
+    "sere": [
+        "sear"
+    ],
+    "serf": [
+        "surf"
+    ],
+    "serge": [
+        "surge"
+    ],
+    "serial": [
+        "cereal"
+    ],
+    "serra": [
+        "sara",
+        "sarah"
+    ],
+    "sewing": [
+        "sowing"
+    ],
+    "sewn": [
+        "sown"
+    ],
+    "sha": [
+        "shah"
+    ],
+    "shah": [
+        "sha"
+    ],
+    "shai": [
+        "shy"
+    ],
+    "shaikh": [
+        "shake"
+    ],
+    "shake": [
+        "shaikh"
+    ],
+    "shari": [
+        "sharry"
+    ],
+    "sharpie": [
+        "sharpy"
+    ],
+    "sharpy": [
+        "sharpie"
+    ],
+    "sharry": [
+        "shari"
+    ],
+    "shaul": [
+        "shawl"
+    ],
+    "shawl": [
+        "shaul"
+    ],
+    "shawn": [
+        "sean"
+    ],
+    "shay": [
+        "shea"
+    ],
+    "she": [
+        "shi",
+        "shih"
+    ],
+    "shea": [
+        "shay"
+    ],
+    "shean": [
+        "sheen"
+    ],
+    "shear": [
+        "sheer"
+    ],
+    "sheen": [
+        "shean"
+    ],
+    "sheer": [
+        "shear"
+    ],
+    "sheik": [
+        "chic"
+    ],
+    "sher": [
+        "shirr"
+    ],
+    "sherri": [
+        "sherry"
+    ],
+    "sherry": [
+        "sherri"
+    ],
+    "shi": [
+        "she",
+        "shih"
+    ],
+    "shih": [
+        "she",
+        "shi"
+    ],
+    "shirr": [
+        "sher"
+    ],
+    "shoe": [
+        "schuh",
+        "shoo",
+        "shu"
+    ],
+    "shone": [
+        "schone",
+        "shown"
+    ],
+    "shoo": [
+        "schuh",
+        "shoe",
+        "shu"
+    ],
+    "shoot": [
+        "chute"
+    ],
+    "shop": [
+        "shoppe"
+    ],
+    "shoppe": [
+        "shop"
+    ],
+    "shot": [
+        "shott"
+    ],
+    "shott": [
+        "shot"
+    ],
+    "shown": [
+        "schone",
+        "shone"
+    ],
+    "shu": [
+        "schuh",
+        "shoe",
+        "shoo"
+    ],
+    "shure": [
+        "sure"
+    ],
+    "shy": [
+        "shai"
+    ],
+    "sic": [
+        "sick"
+    ],
+    "sick": [
+        "sic"
+    ],
+    "sid": [
+        "cid",
+        "syd"
+    ],
+    "side": [
+        "seid",
+        "syed"
+    ],
+    "sider": [
+        "cider"
+    ],
+    "sidle": [
+        "seidel"
+    ],
+    "sie": [
+        "sea",
+        "see"
+    ],
+    "sigh": [
+        "psi",
+        "sai"
+    ],
+    "sight": [
+        "cite",
+        "site"
+    ],
+    "sign": [
+        "sine"
+    ],
+    "sikh": [
+        "seek"
+    ],
+    "sil": [
+        "sill"
+    ],
+    "sill": [
+        "sil"
+    ],
+    "silva": [
+        "sylva"
+    ],
+    "silvia": [
+        "sylvia"
+    ],
+    "simeon": [
+        "simian"
+    ],
+    "simian": [
+        "simeon"
+    ],
+    "sine": [
+        "sign"
+    ],
+    "sing": [
+        "singh"
+    ],
+    "singh": [
+        "sing"
+    ],
+    "sink": [
+        "cinque",
+        "sync"
+    ],
+    "sioux": [
+        "sue"
+    ],
+    "sir": [
+        "sur"
+    ],
+    "site": [
+        "cite",
+        "sight"
+    ],
+    "skaff": [
+        "scaff"
+    ],
+    "skeen": [
+        "skene"
+    ],
+    "skene": [
+        "skeen"
+    ],
+    "skerry": [
+        "scary"
+    ],
+    "skull": [
+        "scull"
+    ],
+    "slain": [
+        "slane"
+    ],
+    "slane": [
+        "slain"
+    ],
+    "slay": [
+        "sleigh"
+    ],
+    "sleigh": [
+        "slay"
+    ],
+    "sleight": [
+        "slight"
+    ],
+    "slight": [
+        "sleight"
+    ],
+    "sloan": [
+        "slone"
+    ],
+    "sloe": [
+        "slow"
+    ],
+    "slone": [
+        "sloan"
+    ],
+    "slow": [
+        "sloe"
+    ],
+    "soap": [
+        "sope"
+    ],
+    "soar": [
+        "saur",
+        "sore"
+    ],
+    "sock": [
+        "sok"
+    ],
+    "sod": [
+        "saad"
+    ],
+    "sofia": [
+        "sophia"
+    ],
+    "sok": [
+        "sock"
+    ],
+    "solan": [
+        "solon"
+    ],
+    "solar": [
+        "soler"
+    ],
+    "sole": [
+        "soul",
+        "sowle"
+    ],
+    "soler": [
+        "solar"
+    ],
+    "solon": [
+        "solan"
+    ],
+    "some": [
+        "sum"
+    ],
+    "son": [
+        "sun"
+    ],
+    "sonny": [
+        "sunny"
+    ],
+    "sope": [
+        "soap"
+    ],
+    "sophia": [
+        "sofia"
+    ],
+    "sore": [
+        "saur",
+        "soar"
+    ],
+    "sorry": [
+        "sari"
+    ],
+    "soss": [
+        "sauce"
+    ],
+    "sot": [
+        "sought"
+    ],
+    "sought": [
+        "sot"
+    ],
+    "soul": [
+        "sole",
+        "sowle"
+    ],
+    "souter": [
+        "suitor",
+        "sutor"
+    ],
+    "souther": [
+        "suther"
+    ],
+    "sow": [
+        "sao"
+    ],
+    "sowing": [
+        "sewing"
+    ],
+    "sowle": [
+        "sole",
+        "soul"
+    ],
+    "sown": [
+        "sewn"
+    ],
+    "spack": [
+        "spak"
+    ],
+    "spade": [
+        "spaid"
+    ],
+    "spaid": [
+        "spade"
+    ],
+    "spak": [
+        "spack"
+    ],
+    "span": [
+        "spann"
+    ],
+    "spaniel": [
+        "spaniol"
+    ],
+    "spaniol": [
+        "spaniel"
+    ],
+    "spann": [
+        "span"
+    ],
+    "spear": [
+        "speer"
+    ],
+    "spec": [
+        "speck"
+    ],
+    "speck": [
+        "spec"
+    ],
+    "specks": [
+        "specs"
+    ],
+    "specs": [
+        "specks"
+    ],
+    "speer": [
+        "spear"
+    ],
+    "stacey": [
+        "stacy"
+    ],
+    "stacy": [
+        "stacey"
+    ],
+    "stade": [
+        "staid",
+        "stayed"
+    ],
+    "staid": [
+        "stade",
+        "stayed"
+    ],
+    "stair": [
+        "stare"
+    ],
+    "stake": [
+        "steak"
+    ],
+    "stanley": [
+        "stanly"
+    ],
+    "stanly": [
+        "stanley"
+    ],
+    "stare": [
+        "stair"
+    ],
+    "stayed": [
+        "stade",
+        "staid"
+    ],
+    "steak": [
+        "stake"
+    ],
+    "steal": [
+        "steel"
+    ],
+    "stealer": [
+        "steeler"
+    ],
+    "steel": [
+        "steal"
+    ],
+    "steeler": [
+        "stealer"
+    ],
+    "stein": [
+        "stine"
+    ],
+    "step": [
+        "steppe"
+    ],
+    "stephen": [
+        "steven"
+    ],
+    "steppe": [
+        "step"
+    ],
+    "steven": [
+        "stephen"
+    ],
+    "stew": [
+        "stu"
+    ],
+    "stewart": [
+        "stuart"
+    ],
+    "stewed": [
+        "stude"
+    ],
+    "stich": [
+        "stitch"
+    ],
+    "sticks": [
+        "styx"
+    ],
+    "stile": [
+        "style"
+    ],
+    "stine": [
+        "stein"
+    ],
+    "stitch": [
+        "stich"
+    ],
+    "stoop": [
+        "stoup"
+    ],
+    "stoup": [
+        "stoop"
+    ],
+    "stray": [
+        "strey"
+    ],
+    "strey": [
+        "stray"
+    ],
+    "stu": [
+        "stew"
+    ],
+    "stuart": [
+        "stewart"
+    ],
+    "stude": [
+        "stewed"
+    ],
+    "style": [
+        "stile"
+    ],
+    "styx": [
+        "sticks"
+    ],
+    "subtle": [
+        "suttle"
+    ],
+    "succor": [
+        "sucker"
+    ],
+    "suck": [
+        "suk"
+    ],
+    "sucker": [
+        "succor"
+    ],
+    "sue": [
+        "sioux"
+    ],
+    "suede": [
+        "swayed"
+    ],
+    "suite": [
+        "sweet"
+    ],
+    "suitor": [
+        "souter",
+        "sutor"
+    ],
+    "suk": [
+        "suck"
+    ],
+    "sum": [
+        "some"
+    ],
+    "summar": [
+        "summer"
+    ],
+    "summer": [
+        "summar"
+    ],
+    "sun": [
+        "son"
+    ],
+    "sunny": [
+        "sonny"
+    ],
+    "sur": [
+        "sir"
+    ],
+    "sure": [
+        "shure"
+    ],
+    "surf": [
+        "serf"
+    ],
+    "surge": [
+        "serge"
+    ],
+    "susie": [
+        "suzy"
+    ],
+    "suther": [
+        "souther"
+    ],
+    "sutor": [
+        "souter",
+        "suitor"
+    ],
+    "suttle": [
+        "subtle"
+    ],
+    "suzy": [
+        "susie"
+    ],
+    "swayed": [
+        "suede"
+    ],
+    "sweet": [
+        "suite"
+    ],
+    "syd": [
+        "cid",
+        "sid"
+    ],
+    "syed": [
+        "seid",
+        "side"
+    ],
+    "sylva": [
+        "silva"
+    ],
+    "sylvia": [
+        "silvia"
+    ],
+    "symbol": [
+        "cymbal"
+    ],
+    "sync": [
+        "cinque",
+        "sink"
+    ],
+    "synch": [
+        "cinch"
+    ],
+    "tae": [
+        "tay"
+    ],
+    "tai": [
+        "thai",
+        "tie",
+        "tye"
+    ],
+    "tail": [
+        "tale"
+    ],
+    "tailor": [
+        "taylor"
+    ],
+    "tait": [
+        "tate"
+    ],
+    "tale": [
+        "tail"
+    ],
+    "talkie": [
+        "talky"
+    ],
+    "talky": [
+        "talkie"
+    ],
+    "tall": [
+        "tol"
+    ],
+    "tammie": [
+        "tammy"
+    ],
+    "tammy": [
+        "tammie"
+    ],
+    "tania": [
+        "tanya"
+    ],
+    "tanya": [
+        "tania"
+    ],
+    "tar": [
+        "tarr"
+    ],
+    "tarr": [
+        "tar"
+    ],
+    "tarry": [
+        "teri",
+        "terri",
+        "terry"
+    ],
+    "tatar": [
+        "tatter"
+    ],
+    "tate": [
+        "tait"
+    ],
+    "tatter": [
+        "tatar"
+    ],
+    "taught": [
+        "taut"
+    ],
+    "taut": [
+        "taught"
+    ],
+    "tay": [
+        "tae"
+    ],
+    "taylor": [
+        "tailor"
+    ],
+    "tea": [
+        "tee"
+    ],
+    "teal": [
+        "teel"
+    ],
+    "team": [
+        "teem"
+    ],
+    "teaming": [
+        "teeming"
+    ],
+    "teat": [
+        "teet"
+    ],
+    "tec": [
+        "tech",
+        "teck"
+    ],
+    "tech": [
+        "tec",
+        "teck"
+    ],
+    "teck": [
+        "tec",
+        "tech"
+    ],
+    "tee": [
+        "tea"
+    ],
+    "teel": [
+        "teal"
+    ],
+    "teem": [
+        "team"
+    ],
+    "teeming": [
+        "teaming"
+    ],
+    "teet": [
+        "teat"
+    ],
+    "tenner": [
+        "tenor"
+    ],
+    "tenor": [
+        "tenner"
+    ],
+    "teresa": [
+        "theresa"
+    ],
+    "teri": [
+        "tarry",
+        "terri",
+        "terry"
+    ],
+    "terri": [
+        "tarry",
+        "teri",
+        "terry"
+    ],
+    "terry": [
+        "tarry",
+        "teri",
+        "terri"
+    ],
+    "tester": [
+        "testor"
+    ],
+    "testor": [
+        "tester"
+    ],
+    "tew": [
+        "chew",
+        "chou"
+    ],
+    "thai": [
+        "tai",
+        "tie",
+        "tye"
+    ],
+    "their": [
+        "there"
+    ],
+    "there": [
+        "their"
+    ],
+    "theresa": [
+        "teresa"
+    ],
+    "therm": [
+        "thurm"
+    ],
+    "tho": [
+        "though"
+    ],
+    "though": [
+        "tho"
+    ],
+    "threw": [
+        "through"
+    ],
+    "throne": [
+        "thrown"
+    ],
+    "through": [
+        "threw"
+    ],
+    "thrown": [
+        "throne"
+    ],
+    "thurm": [
+        "therm"
+    ],
+    "tibbie": [
+        "tibby"
+    ],
+    "tibby": [
+        "tibbie"
+    ],
+    "tic": [
+        "tick"
+    ],
+    "tick": [
+        "tic"
+    ],
+    "tide": [
+        "tied"
+    ],
+    "tie": [
+        "tai",
+        "thai",
+        "tye"
+    ],
+    "tied": [
+        "tide"
+    ],
+    "tighten": [
+        "titan"
+    ],
+    "til": [
+        "till"
+    ],
+    "till": [
+        "til"
+    ],
+    "tilley": [
+        "tilly"
+    ],
+    "tilly": [
+        "tilley"
+    ],
+    "timber": [
+        "timbre"
+    ],
+    "timbre": [
+        "timber"
+    ],
+    "titan": [
+        "tighten"
+    ],
+    "toad": [
+        "toed"
+    ],
+    "tod": [
+        "todd"
+    ],
+    "todd": [
+        "tod"
+    ],
+    "toe": [
+        "tow"
+    ],
+    "toed": [
+        "toad"
+    ],
+    "tol": [
+        "tall"
+    ],
+    "tole": [
+        "toll"
+    ],
+    "toll": [
+        "tole"
+    ],
+    "tongue": [
+        "tung"
+    ],
+    "tonight": [
+        "tonite"
+    ],
+    "tonite": [
+        "tonight"
+    ],
+    "too": [
+        "tue",
+        "two"
+    ],
+    "toon": [
+        "tune"
+    ],
+    "tor": [
+        "tore"
+    ],
+    "tore": [
+        "tor"
+    ],
+    "tough": [
+        "tuff"
+    ],
+    "tourney": [
+        "turney"
+    ],
+    "tow": [
+        "toe"
+    ],
+    "tracey": [
+        "tracy"
+    ],
+    "tracked": [
+        "tract"
+    ],
+    "tract": [
+        "tracked"
+    ],
+    "tracy": [
+        "tracey"
+    ],
+    "tray": [
+        "trey"
+    ],
+    "trey": [
+        "tray"
+    ],
+    "tri": [
+        "try"
+    ],
+    "triple": [
+        "tripple"
+    ],
+    "tripple": [
+        "triple"
+    ],
+    "trixie": [
+        "trixy"
+    ],
+    "trixy": [
+        "trixie"
+    ],
+    "troop": [
+        "troupe"
+    ],
+    "troupe": [
+        "troop"
+    ],
+    "try": [
+        "tri"
+    ],
+    "tsar": [
+        "czar"
+    ],
+    "tue": [
+        "too",
+        "two"
+    ],
+    "tuff": [
+        "tough"
+    ],
+    "tune": [
+        "toon"
+    ],
+    "tung": [
+        "tongue"
+    ],
+    "turney": [
+        "tourney"
+    ],
+    "two": [
+        "too",
+        "tue"
+    ],
+    "tye": [
+        "tai",
+        "thai",
+        "tie"
+    ],
+    "umbel": [
+        "umble"
+    ],
+    "umble": [
+        "umbel"
+    ],
+    "undo": [
+        "undue"
+    ],
+    "undue": [
+        "undo"
+    ],
+    "urman": [
+        "ermine"
+    ],
+    "urn": [
+        "earn",
+        "erne"
+    ],
+    "vail": [
+        "vale",
+        "veil"
+    ],
+    "vain": [
+        "vane",
+        "vein"
+    ],
+    "vale": [
+        "vail",
+        "veil"
+    ],
+    "vane": [
+        "vain",
+        "vein"
+    ],
+    "vary": [
+        "very"
+    ],
+    "veil": [
+        "vail",
+        "vale"
+    ],
+    "vein": [
+        "vain",
+        "vane"
+    ],
+    "venous": [
+        "venus"
+    ],
+    "venus": [
+        "venous"
+    ],
+    "very": [
+        "vary"
+    ],
+    "vic": [
+        "vick"
+    ],
+    "vice": [
+        "vise"
+    ],
+    "vick": [
+        "vic"
+    ],
+    "vicki": [
+        "vickie",
+        "vicky"
+    ],
+    "vickie": [
+        "vicki",
+        "vicky"
+    ],
+    "vicky": [
+        "vicki",
+        "vickie"
+    ],
+    "vinal": [
+        "vinyl"
+    ],
+    "vinyl": [
+        "vinal"
+    ],
+    "vise": [
+        "vice"
+    ],
+    "wack": [
+        "whack"
+    ],
+    "wacker": [
+        "whacker"
+    ],
+    "wade": [
+        "weighed"
+    ],
+    "wagener": [
+        "wagoner"
+    ],
+    "wagoner": [
+        "wagener"
+    ],
+    "wail": [
+        "wale",
+        "whale"
+    ],
+    "wain": [
+        "wane",
+        "wayne"
+    ],
+    "waist": [
+        "waste"
+    ],
+    "wait": [
+        "weight"
+    ],
+    "waive": [
+        "wave"
+    ],
+    "waiver": [
+        "waver"
+    ],
+    "wale": [
+        "wail",
+        "whale"
+    ],
+    "wamble": [
+        "womble"
+    ],
+    "wan": [
+        "juan"
+    ],
+    "wane": [
+        "wain",
+        "wayne"
+    ],
+    "wang": [
+        "whang"
+    ],
+    "war": [
+        "wore"
+    ],
+    "ware": [
+        "wear",
+        "where"
+    ],
+    "warf": [
+        "wharf"
+    ],
+    "warily": [
+        "wearily"
+    ],
+    "waring": [
+        "wearing"
+    ],
+    "warn": [
+        "worn"
+    ],
+    "wary": [
+        "wherry"
+    ],
+    "waste": [
+        "waist"
+    ],
+    "wave": [
+        "waive"
+    ],
+    "waver": [
+        "waiver"
+    ],
+    "way": [
+        "wei",
+        "weigh",
+        "wey",
+        "whey"
+    ],
+    "wayne": [
+        "wain",
+        "wane"
+    ],
+    "weak": [
+        "week"
+    ],
+    "weakly": [
+        "weekly"
+    ],
+    "wear": [
+        "ware",
+        "where"
+    ],
+    "wearily": [
+        "warily"
+    ],
+    "wearing": [
+        "waring"
+    ],
+    "weary": [
+        "wiry"
+    ],
+    "weather": [
+        "whether"
+    ],
+    "webber": [
+        "weber"
+    ],
+    "weber": [
+        "webber"
+    ],
+    "week": [
+        "weak"
+    ],
+    "weekly": [
+        "weakly"
+    ],
+    "wei": [
+        "way",
+        "weigh",
+        "wey",
+        "whey"
+    ],
+    "weigh": [
+        "way",
+        "wei",
+        "wey",
+        "whey"
+    ],
+    "weighed": [
+        "wade"
+    ],
+    "weight": [
+        "wait"
+    ],
+    "wen": [
+        "when"
+    ],
+    "wend": [
+        "wende"
+    ],
+    "wende": [
+        "wend"
+    ],
+    "wet": [
+        "whet"
+    ],
+    "wey": [
+        "way",
+        "wei",
+        "weigh",
+        "whey"
+    ],
+    "whack": [
+        "wack"
+    ],
+    "whacker": [
+        "wacker"
+    ],
+    "whale": [
+        "wail",
+        "wale"
+    ],
+    "whang": [
+        "wang"
+    ],
+    "wharf": [
+        "warf"
+    ],
+    "wheeled": [
+        "wield"
+    ],
+    "when": [
+        "wen"
+    ],
+    "where": [
+        "ware",
+        "wear"
+    ],
+    "wherry": [
+        "wary"
+    ],
+    "whet": [
+        "wet"
+    ],
+    "whether": [
+        "weather"
+    ],
+    "whew": [
+        "woo"
+    ],
+    "whey": [
+        "way",
+        "wei",
+        "weigh",
+        "wey"
+    ],
+    "which": [
+        "witch"
+    ],
+    "whicker": [
+        "wicker"
+    ],
+    "whig": [
+        "wig"
+    ],
+    "while": [
+        "wile",
+        "wyle"
+    ],
+    "whine": [
+        "wine",
+        "wyne"
+    ],
+    "whiner": [
+        "winer"
+    ],
+    "whirl": [
+        "whorl"
+    ],
+    "whirled": [
+        "world"
+    ],
+    "whiskey": [
+        "whisky"
+    ],
+    "whisky": [
+        "whiskey"
+    ],
+    "whistle": [
+        "wissel"
+    ],
+    "whit": [
+        "wit"
+    ],
+    "white": [
+        "wight"
+    ],
+    "whither": [
+        "wither"
+    ],
+    "whiz": [
+        "wiz"
+    ],
+    "whoa": [
+        "woe"
+    ],
+    "whole": [
+        "hole"
+    ],
+    "wholly": [
+        "holy"
+    ],
+    "whore": [
+        "hoar"
+    ],
+    "whorl": [
+        "whirl"
+    ],
+    "why": [
+        "wye"
+    ],
+    "wicker": [
+        "whicker"
+    ],
+    "wield": [
+        "wheeled"
+    ],
+    "wig": [
+        "whig"
+    ],
+    "wight": [
+        "white"
+    ],
+    "wile": [
+        "while",
+        "wyle"
+    ],
+    "willey": [
+        "willie",
+        "willy"
+    ],
+    "willie": [
+        "willey",
+        "willy"
+    ],
+    "willy": [
+        "willey",
+        "willie"
+    ],
+    "win": [
+        "wynn"
+    ],
+    "wind": [
+        "wined"
+    ],
+    "wine": [
+        "whine",
+        "wyne"
+    ],
+    "wined": [
+        "wind"
+    ],
+    "winer": [
+        "whiner"
+    ],
+    "winkel": [
+        "winkle"
+    ],
+    "winkle": [
+        "winkel"
+    ],
+    "wiry": [
+        "weary"
+    ],
+    "wis": [
+        "wiss",
+        "wyss"
+    ],
+    "wiss": [
+        "wis",
+        "wyss"
+    ],
+    "wissel": [
+        "whistle"
+    ],
+    "wit": [
+        "whit"
+    ],
+    "witch": [
+        "which"
+    ],
+    "wither": [
+        "whither"
+    ],
+    "wiz": [
+        "whiz"
+    ],
+    "woe": [
+        "whoa"
+    ],
+    "womble": [
+        "wamble"
+    ],
+    "won": [
+        "one"
+    ],
+    "woo": [
+        "whew"
+    ],
+    "wood": [
+        "would"
+    ],
+    "wore": [
+        "war"
+    ],
+    "world": [
+        "whirled"
+    ],
+    "worn": [
+        "warn"
+    ],
+    "would": [
+        "wood"
+    ],
+    "wrack": [
+        "rack"
+    ],
+    "wrap": [
+        "rap",
+        "rappe"
+    ],
+    "wrapped": [
+        "rapt"
+    ],
+    "wrapper": [
+        "rapper"
+    ],
+    "wrath": [
+        "rath"
+    ],
+    "wreak": [
+        "reek"
+    ],
+    "wreck": [
+        "reck"
+    ],
+    "wren": [
+        "renne"
+    ],
+    "wrest": [
+        "rest"
+    ],
+    "wright": [
+        "reit",
+        "right",
+        "rite",
+        "write"
+    ],
+    "wring": [
+        "ring",
+        "ringe"
+    ],
+    "wringer": [
+        "ringer"
+    ],
+    "wrist": [
+        "rist"
+    ],
+    "write": [
+        "reit",
+        "right",
+        "rite",
+        "wright"
+    ],
+    "writer": [
+        "reiter",
+        "righter"
+    ],
+    "wrong": [
+        "rong"
+    ],
+    "wrote": [
+        "rote"
+    ],
+    "wrung": [
+        "rung"
+    ],
+    "wry": [
+        "rye"
+    ],
+    "wryly": [
+        "riley"
+    ],
+    "wye": [
+        "why"
+    ],
+    "wyle": [
+        "while",
+        "wile"
+    ],
+    "wyne": [
+        "whine",
+        "wine"
+    ],
+    "wynn": [
+        "win"
+    ],
+    "wyss": [
+        "wis",
+        "wiss"
+    ],
+    "yao": [
+        "yow"
+    ],
+    "yap": [
+        "yapp"
+    ],
+    "yapp": [
+        "yap"
+    ],
+    "yew": [
+        "ewe",
+        "you"
+    ],
+    "yoke": [
+        "yolk"
+    ],
+    "yolk": [
+        "yoke"
+    ],
+    "yore": [
+        "your"
+    ],
+    "you": [
+        "ewe",
+        "yew"
+    ],
+    "your": [
+        "yore"
+    ],
+    "yow": [
+        "yao"
+    ],
+    "zach": [
+        "zak"
+    ],
+    "zak": [
+        "zach"
+    ],
+    "zea": [
+        "zee"
+    ],
+    "zee": [
+        "zea"
+    ],
+    "zilla": [
+        "zillah"
+    ],
+    "zillah": [
+        "zilla"
+    ],
+    "zinc": [
+        "zink"
+    ],
+    "zink": [
+        "zinc"
+    ]
+}
